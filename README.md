@@ -1,2 +1,3 @@
 # BigUp50
-Thema: Brawlstar wiki page
+Thema: Brawlstar Fandom page
+
