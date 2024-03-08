@@ -9,13 +9,12 @@ Einsicht zu allen Maps zu allen Spielmodis mit den besten Kombinationen
 Informationen zu den Gamemodes, wie sie funktionieren und wie man sie am besten spielt 
 
 # Anteilung
-Website[
-Home  = Tom
-Info = Taulant
-Maps and toppicks = Melvin
-Gacha(kleinesSpiel) = Musa 
-Contact(could ) = ?
-]
+Home  = Tom<br>
+Info = Taulant<br>
+Maps and toppicks = Melvin<br>
+Gacha(kleinesSpiel) = Musa <br>
+Contact(could ) = ?<br>
+
  
 
 # Installation
