@@ -27,10 +27,10 @@ Beispiele und Demos
 Benutzt unsere Seite, gibt uns Feedback auf Fehler oder Verbesserung zur Texten, Bilder oder der grafischen Oberfläche
 
 # Kontakt
-solmu485
-halta426
-BodyKicker
-TomHermes2001
+solmu485<br>
+halta426<br>
+BodyKicker<br>
+TomHermes2001<br>
 
 # Verwaltung des Projekts und wer trägt dazu bei?
 Wir probieren das Projekt zu dem aktuellen Punkt abzuschliessen, bei zukünftigen Updates können wir eine Aktualiserung nicht garantieren
