@@ -5,8 +5,8 @@ Thema: Brawl Stars Fandom page
 Brawl Stars Fandom Page
 Einsicht zu allen Informationen jedes einzelnen Brawler mit Ausrüstung, Star Power und eventuelle Überladung
 
-wenn möglich, alle Maps zu allen Spielmodis mit den besten Brawlerkombinationen
-Informationen zu den Gamemodes und wie sie funktionieren und wie man sie am besten spielt 
+Einsicht zu allen Maps zu allen Spielmodis mit den besten Kombinationen
+Informationen zu den Gamemodes, wie sie funktionieren und wie man sie am besten spielt 
 
 # Verwendung
  
