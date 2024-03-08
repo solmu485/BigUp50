@@ -8,7 +8,14 @@ Einsicht zu allen Informationen jedes einzelnen Brawler mit Ausrüstung, Star Po
 Einsicht zu allen Maps zu allen Spielmodis mit den besten Kombinationen
 Informationen zu den Gamemodes, wie sie funktionieren und wie man sie am besten spielt 
 
-# Verwendung
+# Anteilung
+Website[
+Home  = Tom
+Info = Taulant
+Maps and toppicks = Melvin
+Gacha(kleinesSpiel) = Musa 
+Contact(could ) = ?
+]
  
 
 # Installation
