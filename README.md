@@ -1,5 +1,5 @@
 # Brawl Stars Fandom Page Projekt
-![Brawl Stars Logo]<img src="https://m.media-amazon.com/images/M/MV5BYWRmZWQzOGYtZWEyYS00NjgwLWIwZjAtNDRkNDQzOWU1NDI3XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" width="200" height="200">
+![Brawl Stars Logo]<img src="https://m.media-amazon.com/images/M/MV5BYWRmZWQzOGYtZWEyYS00NjgwLWIwZjAtNDRkNDQzOWU1NDI3XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" width="200" height="400">
 
 ## Projektname:
 Brawl Stars Fandom Page
