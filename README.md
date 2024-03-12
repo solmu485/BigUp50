@@ -6,7 +6,7 @@ Brawl Stars<br>
 Brawl Stars Fandom Page
 
 ## Übersicht:
-Dieses Projekt zielt darauf ab, eine umfassende Fanseite für Brawl Stars zu erstellen. Es soll Einblicke in jeden Brawler, deren Ausrüstung, Star Powers und eventuelle Überladungen bieten. Zusätzlich werden detaillierte Informationen zu allen Karten für jeden Spielmodus bereitgestellt, einschließlich optimaler Kombinationen. 
+Dieses Projekt zielt darauf ab, eine umfassende Fanseite für Brawl Stars zu erstellen. Es soll Einblicke in jeden Brawler, deren Ausrüstung, Star Powers und eventuelle Überladungen bieten. Zusätzlich werden detaillierte Informationen zu allen Karten für jeden Spielmodus bereitgestellt, einschließlich optimaler Kombinationen. Als bonus werden wir einen Minispiel "Gacha" erstellen.
 
 ## Mitwirkende:
 - Home: Tom
@@ -28,5 +28,3 @@ Für Informationen zum Spiel selbst, besuchen Sie bitte die offizielle Brawl Sta
 ## Projektmanagement und Beiträge:
 Wir streben an, das Projekt gemäß den aktuellen Spezifikationen abzuschließen. 
 Zukünftige Updates können jedoch nicht garantiert werden. Alle aufgeführten Entwickler tragen aktiv zum Projekt bei.
-
-## 
