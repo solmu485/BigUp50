@@ -29,3 +29,6 @@ Für Informationen zum Spiel selbst, besuchen Sie bitte die offizielle Brawl Sta
 ## Projektmanagement und Beiträge:
 Wir streben an, das Projekt gemäß den aktuellen Spezifikationen abzuschließen. 
 Zukünftige Updates können jedoch nicht garantiert werden. Alle aufgeführten Entwickler tragen aktiv zum Projekt bei.
+
+## Spiel
+Wenn sie das Spiel slebst probieren, können sie den applestore oder goodleplaystore in ihren smartphone besuchen und spielen.
