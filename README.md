@@ -1,40 +1,32 @@
-# Brawl Stars Fandom Page
-Thema: Brawl Stars Fandom page
+# Brawl Stars Fandom Page Projekt
+![Brawl Stars Logo]([URL_des_Bildes](https://m.media-amazon.com/images/M/MV5BYWRmZWQzOGYtZWEyYS00NjgwLWIwZjAtNDRkNDQzOWU1NDI3XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg))
 
-# Projektname
+## Projektname:
 Brawl Stars Fandom Page
-Einsicht zu allen Informationen jedes einzelnen Brawler mit Ausrüstung, Star Power und eventuelle Überladung
 
-Einsicht zu allen Maps zu allen Spielmodis mit den besten Kombinationen
-Informationen zu den Gamemodes, wie sie funktionieren und wie man sie am besten spielt 
+## Übersicht:
+Dieses Projekt zielt darauf ab, eine umfassende Fanseite für Brawl Stars zu erstellen. Es soll Einblicke in jeden Brawler, deren Ausrüstung, Star Powers und eventuelle Überladungen bieten. Zusätzlich werden detaillierte Informationen zu allen Karten für jeden Spielmodus bereitgestellt, einschließlich optimaler Kombinationen. 
 
-# Anteilung
-Home  = Tom<br>
-Info = Taulant<br>
-Maps and toppicks = Melvin<br>
-Gacha(kleinesSpiel) = Musa <br>
-Contact(could ) = ?<br>
+## Mitwirkende:
+- Home: Tom
+- Info: Taulant
+- Karten und Top-Picks: Melvin
+- Gacha (Mini-Spiel): Musa
+- Kontakt: [Noch zu bestimmen]
 
- 
+## Beispiel:
+[Beispiele und Demos]
+Diese Seite basiert auf Websites wie [BrawlAPI](https://brawlapi.com/#/). 
+Für Informationen zum Spiel selbst, besuchen Sie bitte die offizielle Brawl Stars-Website: [Brawl Stars von Supercell](https://supercell.com/en/games/brawlstars/).
 
-# Installation
-Installation des Projekts
+## Kontakt:
+- Solmu485
+- Halta426
+- BodyKicker
+- TomHermes2001
 
-# Beispiel
-[Beispiele und Demos]<br>Dies ist eine Inspiration des Webseites(https://brawlapi.com/#/)
+## Projektmanagement und Beiträge:
+Wir streben an, das Projekt gemäß den aktuellen Spezifikationen abzuschließen. 
+Zukünftige Updates können jedoch nicht garantiert werden. Alle aufgeführten Entwickler tragen aktiv zum Projekt bei.
 
-# Beitrag zur Seite
-Benutzt unsere Seite, gibt uns Feedback auf Fehler oder Verbesserung zur Texten, Bilder oder der grafischen Oberfläche
 
-# Kontakt
-solmu485<br>
-halta426<br>
-BodyKicker<br>
-TomHermes2001<br>
-
-# Verwaltung des Projekts und wer trägt dazu bei?
-Wir probieren das Projekt zu dem aktuellen Punkt abzuschliessen, bei zukünftigen Updates können wir eine Aktualiserung nicht garantieren
-Alle Entwickler, die man kontaktieren kann, sind am Projekt beteiligt
-
-# Verweise
-Weitere nützliche Links und Ressourcen
