@@ -16,7 +16,6 @@ Dieses Projekt zielt darauf ab, eine umfassende Fanseite für Brawl Stars zu ers
 - Kontakt: [Noch zu bestimmen]
 
 ## Beispiel:
-[Beispiele und Demos]
 Diese Seite basiert auf Websites wie [BrawlAPI](https://brawlapi.com/#/). 
 Für Informationen zum Spiel selbst, besuchen Sie bitte die offizielle Brawl Stars-Website: [Brawl Stars von Supercell](https://supercell.com/en/games/brawlstars/).
 
