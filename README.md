@@ -8,7 +8,8 @@ Brawl Stars Fandom Page
 ## Übersicht:
 Dieses Projekt zielt darauf ab, eine umfassende Fanseite für Brawl Stars zu erstellen. Es soll Einblicke in jeden Brawler, deren Ausrüstung, Star Powers und eventuelle Überladungen bieten. Zusätzlich werden detaillierte Informationen zu allen Karten für jeden Spielmodus bereitgestellt, einschließlich optimaler Kombinationen. Als bonus werden wir einen Minispiel "Gacha" erstellen.
 
-## Mitwirkende:
+## Anteilung des Webseites:
+Dies sind die Anteilung. Denoch kann jeder mit anderen helfen und deren Anteilung mitmachen.
 - Home: Tom
 - Info: Taulant
 - Karten und Top-Picks: Melvin
