@@ -21,7 +21,7 @@ Contact(could ) = ?<br>
 Installation des Projekts
 
 # Beispiel
-Beispiele und Demos
+[Beispiele und Demos]<br>Dies ist eine Inspiration des Webseites(https://brawlapi.com/#/)
 
 # Beitrag zur Seite
 Benutzt unsere Seite, gibt uns Feedback auf Fehler oder Verbesserung zur Texten, Bilder oder der grafischen Oberfläche
