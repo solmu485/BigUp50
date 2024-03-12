@@ -1,5 +1,5 @@
 # Brawl Stars Fandom Page Projekt
-![Brawl Stars Logo]<br>
+Brawl Stars<br>
 <img src="https://m.media-amazon.com/images/M/MV5BYWRmZWQzOGYtZWEyYS00NjgwLWIwZjAtNDRkNDQzOWU1NDI3XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" width="250" height="400">
 
 ## Projektname:
@@ -29,4 +29,4 @@ Für Informationen zum Spiel selbst, besuchen Sie bitte die offizielle Brawl Sta
 Wir streben an, das Projekt gemäß den aktuellen Spezifikationen abzuschließen. 
 Zukünftige Updates können jedoch nicht garantiert werden. Alle aufgeführten Entwickler tragen aktiv zum Projekt bei.
 
-
+## 
