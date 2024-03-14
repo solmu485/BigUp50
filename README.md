@@ -31,4 +31,4 @@ Wir streben an, das Projekt gemäß den aktuellen Spezifikationen abzuschließen
 Zukünftige Updates können jedoch nicht garantiert werden. Alle aufgeführten Entwickler tragen aktiv zum Projekt bei.
 
 ## Spiel
-Wenn sie das Spiel slebst probieren, können sie den applestore oder goodleplaystore in ihren smartphone besuchen und spielen.
+Wenn sie das Spiel selbst probieren, können sie den Apple Store oder Google Playstore auf ihrem Smartphone besuchen und spielen.
