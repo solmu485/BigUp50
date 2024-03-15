@@ -4,6 +4,7 @@ Brawl Stars<br>
 
 ## Projektname:
 Brawl Stars Fandom Page
+Webseite Name = BRAWL TALK
 
 ## Übersicht:
 Dieses Projekt zielt darauf ab, eine umfassende Fanseite für Brawl Stars zu erstellen. Es soll Einblicke in jeden Brawler, deren Ausrüstung, Star Powers und eventuelle Überladungen bieten. Zusätzlich werden detaillierte Informationen zu allen Karten für jeden Spielmodus bereitgestellt, einschließlich optimaler Kombinationen. Als bonus werden wir einen Minispiel "Gacha" erstellen.
@@ -15,6 +16,12 @@ Dies sind die Anteilung. Denoch kann jeder mit anderen helfen und deren Anteilun
 - Karten und Top-Picks: Melvin
 - Gacha (Mini-Spiel): Musa
 - Kontakt: [Noch zu bestimmen]
+
+## Ziele  
+- Zeit Sparen  
+- Allgemeine Information ohne viel Aufwand  
+
+Unsere API gibt die Chance jedem User mehrere Informationen über verschiedene Brawler zu bekommen. Beispielsweise kann man auswählen welche Brawler man spielen will und anhand der Auswahl sollen Statistiken über diesen Brawler und auch auf welcher Map dieser sich am besten eignet. Nach der Auswahl wird auch die bessere Option von beiden Starpower und Gadget  ausgewählt. 
 
 ## Beispiel:
 Diese Seite basiert auf Websites wie [BrawlAPI](https://brawlapi.com/#/). 
