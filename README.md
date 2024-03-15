@@ -7,7 +7,7 @@ Brawl Stars Fandom Page
 Webseite Name = BRAWL TALK
 
 ## Übersicht:
-Dieses Projekt zielt darauf ab, eine umfassende Fanseite für Brawl Stars zu erstellen. Es soll Einblicke in jeden Brawler, deren Ausrüstung, Star Powers und eventuelle Überladungen bieten. Zusätzlich werden detaillierte Informationen zu allen Karten für jeden Spielmodus bereitgestellt, einschließlich optimaler Kombinationen. Als bonus werden wir einen Minispiel "Gacha" erstellen.
+BRAWL TALK ist eine vollständige Brawl Stars Fanseite, die von Supercells entwickeltem Spiel inspiriert ist. Das Spiel bietet eine Vielzahl von Modi und Charakteren, jeder mit eigenen Stärken und Schwächen, die je nach Modus und Karte strategisch genutzt werden können. Unser Ziel ist es, eine umfassende Plattform für Fans zu schaffen, die Einblicke in jeden Brawler, deren Ausrüstung, Star Powers und eventuelle Überladungen bietet. Darüber hinaus werden detaillierte Informationen zu allen Karten für jeden Spielmodus bereitgestellt, einschließlich optimaler Kombinationen. Als Bonus wird ein Minispiel namens "Gacha" eingeführt, um die Spielerfahrung zu ergänzen.
 
 ## Anteilung des Webseites:
 Dies sind die Anteilung. Denoch kann jeder mit anderen helfen und deren Anteilung mitmachen.
