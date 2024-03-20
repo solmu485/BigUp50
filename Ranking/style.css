@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#flags {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; /* Add some margin between the flags and the flag selector */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.select-container {
+    margin-bottom: 20px;
+}
+
+.select-container select {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+
+#countryInfo {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#countryInfo h2 {
+    font-size: 20px;
+    color: #333;
+}
+
+.country-info-item {
+    margin-bottom: 10px;
+}
+
+.country-info-item label {
+    font-weight: bold;
+}
+
+.country-info-item span {
+    margin-left: 10px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    color: #eee;
+}
+
+h1 {
+    color: #ddd;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #222;
+    color: #eee;
+}
+
+tr:nth-child(even) {
+    background-color: #444;
+}
+
+tr:hover {
+    background-color: #555;
+}
