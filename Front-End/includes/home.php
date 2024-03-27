@@ -1,3 +1,5 @@
+<div id="lelek">
+
 <h1>Welcome to the Brawl Talk Homepage</h1>
 <p>
 "Brawl Stars" is a fast-paced multiplayer online battle game developed by Supercell. Set in a vibrant and colorful universe, players control a diverse cast of characters known as "Brawlers," each with their own unique abilities and playstyles.
@@ -10,3 +12,7 @@ Players can unlock new Brawlers, upgrade their abilities, and customize their ap
 
 With its fast-paced action, strategic depth, and engaging gameplay modes, "Brawl Stars" offers endless fun for both casual players and competitive gamers alike. Whether you prefer team-based cooperation or intense solo showdowns, there's something for everyone in this adrenaline-fueled mobile sensation.
 </p>
+
+<div class="imagehome"><img src="images/homepic.jpg"></div>
+
+</div>

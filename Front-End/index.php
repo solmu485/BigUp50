@@ -4,17 +4,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="author" content="Stefanetti Franjo">
+    <link rel="stylesheet" type="text/css" href="../Back-End/styles/stylesheet.css" media="screen" />
+
     
     <title>Brwal Talk</title>
 
 </head>
 <body>
 <main>
+    <div class="wrapper">
 
         <?php
         //includes um db credentials und Navigation fuer jede Seite 
        // include_once "includes/db_credentials.php";
-       // include_once "includes/navigator.php";
+        include_once "includes/navigation.php";
 
 
 
@@ -36,6 +39,7 @@
         include_once "includes/footer.php";
 
         ?>
+        </div>
 </main>
 </body>
 </html>

@@ -1,0 +1,55 @@
+body{
+background-color: darkblue;
+
+}
+.wrapper{
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+}
+
+.imagehome img{
+width: auto;
+height: 500px;
+}
+
+h1, p{
+color: white;
+}
+
+#lelek{
+    width: 80%;
+    padding-left: 10%;
+}
+
+
+/* Css für die navbar */
+.navbar {
+    background-color: #1E88E5;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white; 
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #0D47A1; 
+}
+
+.active {
+    background-color: #0D47A1; 
+}
+
+/* Media Query für kleine Bildschirme */
+@media screen and (max-width: 600px) {
+    .navbar a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+}
