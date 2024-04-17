@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="foxi" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="foxi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/www/1TPIF1/stefr407/projekt" local="$PROJECT_DIR$" web="/1TPIF1/stefr407/projekt" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

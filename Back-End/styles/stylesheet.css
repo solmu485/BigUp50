@@ -1,6 +1,30 @@
-body{
-background-color: darkblue;
+body {
 
+  background-color: navy; /* Hintergrundfarbe der Seite */
+}
+
+#eventsTable {
+  width: 50%;
+  border-collapse: collapse;
+  background-color: white;
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+#eventsTable th,
+#eventsTable td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+#eventsTable th {
+  background-color: #f2f2f2;
+}
+
+#eventsTable tbody tr:nth-child(even),
+#eventsTable tbody td:nth-child(even) {
+  background-color: #f2f2f2;
 }
 .wrapper{
     background-color: rgba(0,0,0,0.5);
@@ -12,7 +36,7 @@ width: auto;
 height: 500px;
 }
 
-h1, p{
+h1, h2, p{
 color: white;
 }
 
