@@ -8,6 +8,8 @@
         echo '<a href="index.php?page=...">Placeholder</a>';
         echo '<a href="index.php?page=...">Placeholder</a>';
         echo '<a href="index.php?page=...">Placeholder</a>';
+        echo '<a href="index.php?page=maps">Maps</a>';
+
     ?>
 
 </div>

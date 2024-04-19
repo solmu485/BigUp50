@@ -31,10 +31,11 @@
         //if um Navigation Dynamisch zu erstellen
         if ($page == "home") {
             include_once "includes/home.php";
-        }  else {
+        }  else if ($page == "maps") {
+            include_once "includes/maps.php";
+        } else {
             include_once "includes/home.php";
         }
-
         //einfuegen des Footer fuer jede Seite
         include_once "includes/footer.php";
 
