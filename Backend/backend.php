@@ -16,7 +16,7 @@ if (isset($_GET['query'])) {
     ));
 
     $response = curl_exec($curl);
-        print_r($response);
+        //print_r($response);
     $err = curl_error($curl);
 
     curl_close($curl);
