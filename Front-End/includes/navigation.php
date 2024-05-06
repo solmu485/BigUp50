@@ -4,7 +4,7 @@
 
     <?php
    
-        echo '<a href="index.php?page=...">Placeholder</a>';
+        echo '<a href="gacha.php?page=...">Gacha</a>';
         echo '<a href="index.php?page=...">Placeholder</a>';
         echo '<a href="index.php?page=...">Placeholder</a>';
         echo '<a href="index.php?page=...">Placeholder</a>';
