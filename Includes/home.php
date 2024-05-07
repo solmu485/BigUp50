@@ -28,7 +28,7 @@ include_once "navigation.php";
         <tbody>
         <?php
         // Verbindung zur Datenbank herstellen
-        require_once "../../Back-End/includes/db_credentials.php";
+        require_once "../Back-End/includes/db_credentials.php";
         $dbc = mysqli_connect(DB_HOST, DB_USER, DB_PW, DB_NAME);
         mysqli_set_charset($dbc, 'utf8');
 
@@ -87,5 +87,6 @@ include_once "navigation.php";
         showEvents(0);
     });
 </script>
+    <script src="../Front-End/front_end_ranking.js"></script>
 </div>
 
