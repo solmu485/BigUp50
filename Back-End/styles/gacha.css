@@ -1,0 +1,26 @@
+
+.rarity {
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.common {
+    background-color: #ccc;
+    color: #333;
+}
+
+.rare {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.super_rare {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+.legendary {
+    background-color: #ffc107;
+    color: #333;
+}
