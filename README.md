@@ -14,8 +14,8 @@ Dies sind die Anteilung. Denoch kann jeder mit anderen helfen und deren Anteilun
 - Guess the Brawler & Brawler Categories und Seltenheit : Tom
 - GIF Api & Quiz : Taulant
 - Character Suche & Ranking: Melvin
-- Gacha (Mini-Spiel): Musa
-- Joda Api & Index & Navigations: Franjo
+- Gacha (Mini-Spiel): Musa/Franjo
+- Joda Api & Index & Navigations: Franjo/Musa
 - Maps & Spielmodies: Jean
 - Datenbank: Alle
 
