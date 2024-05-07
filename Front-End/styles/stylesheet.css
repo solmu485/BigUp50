@@ -1,5 +1,7 @@
+
+/* @author Walers Jean*/
 body{
-background-color: darkblue;
+background-color: #2d274a;
 
 }
 .wrapper{
@@ -14,6 +16,7 @@ height: 500px;
 
 h1, p{
 color: white;
+    text-align: center;
 }
 
 #lelek{
@@ -31,18 +34,18 @@ color: white;
 .navbar a {
     float: left;
     display: block;
-    color: white; 
+    color: white;
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
 }
 
 .navbar a:hover {
-    background-color: #0D47A1; 
+    background-color: #0D47A1;
 }
 
 .active {
-    background-color: #0D47A1; 
+    background-color: black;
 }
 
 /* Media Query für kleine Bildschirme */
@@ -52,4 +55,57 @@ color: white;
         display: block;
         text-align: left;
     }
+}
+/* style.css */
+
+/* Container for the images */
+.image-container {
+    position: relative; /* Required for absolute positioning */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Individual image */
+.image-item {
+    position: relative;
+    margin: 20px;
+    transition: transform 0.3s ease; /* Add transition for smooth animation */
+}
+
+/* Image */
+.image-item img {
+    width: 250px; /* Adjust as needed */
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Image name */
+.image-name {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-align: center;
+    color: black; /* Text color */
+    transition: opacity 0.3s ease; /* Add transition for smooth fade */
+    pointer-events: none; /* Prevent text from interfering with hover */
+}
+
+/* Hover effect */
+.image-item:hover {
+    transform: scale(1.3); /* Enlarge the image */
+}
+
+/* Hide image name on hover */
+.image-item:hover .image-name {
+    opacity: 0; /* Hide the text */
+}
+#iss-location {
+    text-align: center;
+    color: white;
 }
