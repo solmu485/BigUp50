@@ -1,5 +1,9 @@
 
 <body>
+<?php
+include_once "navigation.php";
+?>
+<link rel="stylesheet" type="text/css" href="../css/Stylemusa.css">
 <div id="lelek">
     <h1>Welcome to the Brawl Talk Homepage</h1>
     <p>
@@ -24,7 +28,7 @@
         <tbody>
         <?php
         // Verbindung zur Datenbank herstellen
-        require_once "../Back-End/includes/db_credentials.php";
+        require_once "../../Back-End/includes/db_credentials.php";
         $dbc = mysqli_connect(DB_HOST, DB_USER, DB_PW, DB_NAME);
         mysqli_set_charset($dbc, 'utf8');
 
@@ -51,7 +55,7 @@
         </tbody>
     </table>
 
-    <div class="imagehome"><img src="images/homepic.jpg"></div>
+    <div class="imagehome"><img src="../images/homepic.jpg"></div>
 
 
 <script>
