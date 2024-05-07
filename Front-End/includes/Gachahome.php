@@ -7,6 +7,7 @@
     include_once "navigation.php";
     include_once "../../Back-End/includes/functiongacha.php";
     ?>
+    <script src="front_end_rankings.js"></script>
 </head>
 <body>
 <h1>Random Prize Picker</h1>
