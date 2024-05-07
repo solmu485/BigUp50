@@ -21,10 +21,10 @@ function fetchData($url) {
 }
 
 // Fetch map data from the map API endpoint
-$mapsData = fetchData('../sources/api/maps.json');
+$mapsData = fetchData('sources/api/maps.json');
 
 // Fetch game mode data from the game mode API endpoint
-$gameModesData = fetchData('../sources/api/gamemodes.json');
+$gameModesData = fetchData('sources/api/gamemodes.json');
 
 // Combine map and game mode data
 $combinedData = array();
