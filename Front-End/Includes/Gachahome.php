@@ -2,12 +2,11 @@
 <html>
 <head>
     <title>Random Prize Picker</title>
-    <link rel="stylesheet" type="text/css" href="Style/Stylemusa.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../css/Stylemusa.css" media="screen" />
     <?php
     include_once "navigation.php";
     ?>
     <script>
-
 
         function pickRandomPrize() {
             // Hide the image
@@ -25,12 +24,11 @@
             request.send();
         }
     </script>
-
 </head>
 <body>
 <h1>Random Prize Picker</h1>
 <button onclick="pickRandomPrize()" id="click">Pick Random Prize</button>
 <div id="result"></div><br>
-<img id="images/boxImage" src="BOX.jpg" sizes="50%"></img>
+<img id="boxImage" src="../images/BOX.jpg" sizes="50%" />
 </body>
 </html>
