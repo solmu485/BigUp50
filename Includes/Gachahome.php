@@ -5,8 +5,9 @@
     <link rel="stylesheet" type="text/css" href="../Styles/Stylemusa.css" media="screen" />
     <?php
     include_once "navigation.php";
-    include_once "../../Back-End/includes/functiongacha.php";
+    include_once "../Back-End/includes/functiongacha.php";
     ?>
+    <script src="../Front-End/front_end_ranking.js"></script>
 </head>
 <body>
 <h1>Random Prize Picker</h1>
