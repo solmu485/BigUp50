@@ -1,6 +1,6 @@
 //@author walers jean
 // Fetch data from the PHP script
-fetch('../../Back-End/includes/fetch_modeAndMap.php') // Replace 'path_to_your_php_script.php' with the actual path to your PHP
+fetch('../../Back-End/includes/fetch_modeAndMap.php')
 script
     .then(response => response.json())
     .then(data => {
