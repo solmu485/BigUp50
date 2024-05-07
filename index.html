@@ -1,38 +1,322 @@
 <!DOCTYPE html>
-<html lang="de">
-<head>
+<html lang="en">
+<head>   
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="jquery-3.6.2.js"></script>
-    <link rel="stylesheet" href="Front-End/css/styles.css">
-
-    <title>Guess the Brawler</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="jquery-3.6.0.min.js"></script>
+    <title>Quiz</title>
 </head>
 <body>
-    <header>
-        <h1>Guess the Brawler</h1>
-    </header>
-    <img src="Brawl Stars_Image.jpg" alt="Guess the player" id="player-image">
-        <!-- Different Buttons for the game-->
-    <button type="button" id="button_start">Start</button>
-    <br>
-    <!-- Input Field for Brawler Guess -->
-    <input type="text" id="guess_input" placeholder="Enter player's name">
-    <button type="button" id="button_check">Check</button>
-    <br>
-    <br>
-    <!-- Right Brawler-->
-    <table>
-        <thead>
-            <th>Name</th>
-            <th>Category</th>
-            <th>Rarity</th>
-            <th>HP</th>
-        </thead>
-        <tbody id="solution"></tbody>
-    </table>
-    <div id="message_true_brawler"></div>
-    
-    <script src="Front-End/fetchData.js" defer></script>
+
+<header>
+    <h1 id="h1Quiz">Trivial Quiz</h1>
+</header>
+
+<div id="loadingTopicsMessage">Loading...</div>
+
+<div id="divQuizSettings">
+    <form id="formQuizSettings" method="post">
+        <h1>Settings</h1>
+        <label for="selectQuizTopic">Choose a Topic for the Quiz:</label>
+        <br><br>
+        <select id="selectQuizTopic">
+            <option id="optionAny" value="any">Any Topic</option>                
+        </select>
+        <br><br>
+        <label for="selectQuizDifficulty">Choose Difficulty for the Quiz:</label>
+        <br><br>
+        <select id="selectQuizDifficulty">
+            <option id="any" value="any">Any</option>
+            <option id="easy" value="easy">Easy</option>
+            <option id="medium" value="medium">Medium</option>
+            <option id="hard" value="hard">Hard</option>
+        </select>
+        <br><br>
+        <label for="inputQuizLength">Choose how many Questions should appear:</label>
+        <br><br>
+        <input type="number" id="inputQuizLength" placeholder="1-50" min="1" max="50">
+        <br><br>
+        <button type="submit" id="buttonStartQuiz">Begin Quiz</button>
+    </form>
+</div>
+
+<div id="loadingQuizMessage">Loading quiz...</div>
+
+<div id="divResults">
+    <h1 id="h1Results">Results</h1>
+    <h2 id="h2ResultsPoints">Total Points</h2>
+    <button type="button" id="buttonBackToSettings">Back to Settings</button>
+</div>
+
+<div id="divQuestion">
+    <h1 id="h1Points"></h1>
+    <h2 id="h2Topic"></h2>
+    <h3 id="h3Question"></h3>
+    <form method="post" id="answerQuiz"></form>
+    <div id="divFeedback">
+        <p id="pFeedback"></p>
+        <button type="button" id="buttonNextQuestion">Next Question</button>
+    </div>
+</div>
+
+
+<!-- Add loading messages -->
+<script>
+$(document).ready(function() {
+    // Hide the div to display Question and Answers //
+    $("#divQuestion").hide();
+    $("#loadingQuizMessage").hide();
+    $("#divQuizSettings").hide(); // Hide quiz settings initially
+    $("#divResults").hide();
+    $("#divFeedback").hide();
+    $("#buttonNextQuestion").hide(); // Hide the Next Question button initially
+
+    var currentIndex = 0;
+    var data;
+    var points = 0;
+    var sessionToken;
+// Function to request a session token
+function requestSessionToken(callback) {
+    $.ajax({
+        url: "php/getSessionToken.php",
+        success: function(response) {
+            sessionToken = response;
+            console.log("Session token:", sessionToken);
+            callback(); // Call the callback function once the token is retrieved
+        },
+        error: function(xhr, status, error) {
+            console.error("Error fetching session token:", error);
+        }
+    });
+}
+
+
+// Call the function to request the session token
+requestSessionToken(function() {
+    // Now that the token is retrieved, we can proceed to retrieve questions
+    $('#formQuizSettings').submit(function(event) {
+        $("#answerQuiz").show();
+        event.preventDefault();
+        var amount = $("#inputQuizLength").val();
+        var topic = $("#selectQuizTopic").val();
+        var difficulty = $("#selectQuizDifficulty").val();
+        var topicParameter = "";
+        var difficultyParameter = "";
+
+        if (topic !== "any") {
+            topicParameter = "&category=" + topic;
+        }
+
+        if (difficulty !== "any") {
+            difficultyParameter = "&difficulty=" + difficulty;
+        }
+
+        if (amount === "") {
+            $("#errorMessages").html("<p>Please input the number of questions.</p>").css("color", "red");
+            $("#divQuestion").hide();
+        } else {
+            retrieveQuestions(amount, topicParameter, difficultyParameter);
+        }
+        unloadQuizSettings();
+    });
+});
+    // Function to reset the session token
+    function resetSessionToken(responseCode) {
+        $.ajax({
+            url: "php/resetSessionToken.php?response_code=" + responseCode,
+            success: function(response) {
+                console.log("Session token reset");
+
+            },
+            error: function(xhr, status, error) {
+                console.error("Error resetting session token:", error);
+            }
+        });
+    }
+
+
+
+    // Function to unload/reset quiz settings
+    function unloadQuizSettings() {
+        $("#inputQuizLength").val("");
+        $("#selectQuizTopic").val("any");
+        $("#selectQuizDifficulty").val("any");
+        $("#errorMessages").empty();
+        $("#divQuestion").hide();
+        $("#h1Points").hide();
+      
+    }
+
+    // Function to display a question
+function displayQuestion(question) {
+    // Set topic text
+    $("#h2Topic").html(question.category);
+
+    // Clear previous answers
+    $("#answerQuiz").empty();
+
+    // Display the question text (using html() instead of html() to handle special characters)
+    $("#h3Question").html(question.question);
+
+    // Store  correct answer
+    var correctAnswer =question.correct_answer;
+
+    // Add correct and incorrect answers to the HTML
+    var answers = [question.correct_answer, ...question.incorrect_answers];
+    answers.forEach(function(answer) {
+        var button = $("<button type='button' class='answerButton'></button>").html(answer);
+        var answer = answer;
+
+        // Check if the  answer matches the  correct answer
+        if (answer === correctAnswer) {
+            button.attr("data-correct-answer", correctAnswer); // Set data attribute to mark correct answer
+        }
+        $("#answerQuiz").append(button);
+    });
+}
+
+    // Function to retrieve questions
+    function retrieveQuestions(amount, topicParameter, difficultyParameter) {
+        $("#divQuizSettings").hide();
+        $("#loadingQuizMessage").show();
+
+        $.getJSON("https://opentdb.com/api.php?amount=" + amount + "&token=" + sessionToken + topicParameter + difficultyParameter, function(response) {
+            if (response.response_code === 4) {
+                resetSessionToken();
+            } else if (response.response_code !== 0) {
+                setTimeout(function() {
+                    retrieveQuestions(amount, topicParameter, difficultyParameter);
+                }, 1000);
+            } else {
+                $("#errorMessages").empty();
+                $("#divQuizSettings").hide();
+                $("#divQuestion").hide();
+
+                data = response;
+                currentIndex = 0;
+
+               
+
+                $("#h1Points").show();
+                $("#h1Points").html("Total Points: " + points);
+                
+                displayQuestion(data.results[currentIndex]);
+                $("#loadingQuizMessage").hide();
+                $("#divQuestion").show();
+                $("#buttonNextQuestion").hide();
+            }
+        });
+    }
+
+    // Display Quiz Topics
+    $.getJSON("https://opentdb.com/api_category.php", function(response) {
+        $.each(response.trivia_categories, function(index, topic) {
+            $("#selectQuizTopic").append("<option value='" + topic.id + "'>" + topic.name + "</option>");
+        });
+        $("#divQuizSettings").show();
+        $("#loadingTopicsMessage").hide();
+    });
+
+    // Submit the Settings for the Quiz
+    $('#formQuizSettings').submit(function(event) {
+        $("#answerQuiz").show();
+        event.preventDefault();
+        var amount = $("#inputQuizLength").val();
+        var topic = $("#selectQuizTopic").val();
+        var difficulty = $("#selectQuizDifficulty").val();
+        var topicParameter = "";
+        var difficultyParameter = "";
+
+        if (topic !== "any") {
+            topicParameter = "&category=" + topic;
+        }
+
+        if (difficulty !== "any") {
+            difficultyParameter = "&difficulty=" + difficulty;
+        }
+
+        if (amount === "") {
+            $("#errorMessages").html("<p>Please input the number of questions.</p>").css("color", "red");
+            $("#divQuestion").hide();
+        } else {
+            retrieveQuestions(amount, topicParameter, difficultyParameter);
+        }
+        unloadQuizSettings();
+    });
+
+    // Event listener for answer buttons
+    $(document).on("click", ".answerButton", function() {
+        var selectedButton = $(this);
+        var selectedAnswer = selectedButton.html();
+        var correctAnswer = $("#answerQuiz").find(".answerButton[data-correct-answer]").attr("data-correct-answer");
+        var questionText = $("#h3Question").html();
+        var topic = $("#h2Topic").html();
+        var isCorrect = (selectedAnswer === correctAnswer);
+
+        $.post("php/validateAnswer.php", {
+            "POST_question": questionText,
+            "POST_answer": selectedAnswer,
+            "POST_correctAnswer": correctAnswer,
+          
+            "POST_endOfQuiz": (currentIndex >= data.results.length)
+        }, function(response) {
+            var feedback = response;
+            $("#divFeedback").show();
+            $("#pFeedback").show();
+            $("#pFeedback").html(feedback.message);
+
+            if (isCorrect) {
+                $("#pFeedback").css('text-shadow', '0 0 10px #0FFF50, 0 0 20px #0FFF50, 0 0 30px #0FFF50');
+                selectedButton.css({ 'background-color': '#0FFF50', 'border': '10px solid #0FFF50' });
+            } else {
+                $(".answerButton[data-correct-answer='" + correctAnswer + "']").css({ 'background-color': '#0FFF50', 'border': '10px solid #0FFF50' });
+                selectedButton.css({ 'background-color': '#FF3131', 'border': '10px solid #FF3131' });
+                $("#pFeedback").css('text-shadow', '0 0 10px #FF3131, 0 0 20px #FF3131, 0 0 30px #FF3131');
+            }
+
+            if (isCorrect) {
+                points++;
+                $("#h1Points").html("Total Points: " + points);
+            }
+            $("#h1Points").html("Total Points: " + points);
+
+            $("#buttonNextQuestion").show();
+            currentIndex++;
+
+            setTimeout(function() {
+                $(".answerButton").attr("disabled", true);
+            }, 100);
+        });
+    });
+
+    // Event listener for the "Next Question" button
+    $("#buttonNextQuestion").click(function() {
+        if (currentIndex < data.results.length) {
+            displayQuestion(data.results[currentIndex]);
+            $("#divFeedback").hide();
+            $("#pFeedback").hide();
+            $(".answerButton").css({ 'background-color': '#007BFF', 'border': '10px solid #007BFF' });
+        } else {
+            unloadQuizSettings();
+            $("#divResults").show();
+            $("#h2ResultsPoints").html("Total Points: " + points);
+            $("#h1Points").hide();
+            $("#divQuestion").hide();
+           
+            $("#loadingQuizMessage").hide();
+            $("#divQuizSettings").hide();
+            $("#buttonNextQuestion").hide();
+            $("#pFeedback").empty();
+        }
+    });
+
+    $("#buttonBackToSettings").click(function() {
+        $("#divQuizSettings").show();
+        $("#divResults").hide();
+        points = 0;
+    });
+});
+</script>
 </body>
 </html>
