@@ -16,7 +16,8 @@ Dies sind die Anteilung. Denoch kann jeder mit anderen helfen und deren Anteilun
 - Character Suche & Ranking: Melvin
 - Gacha (Mini-Spiel): Musa
 - Joda Api & Index & Navigations: Franjo
-- Maps & Spielmodies: Jeans
+- Maps & Spielmodies: Jean
+- Datenbank: Alle
 
 ## Ziele  
 - Zeit Sparen  
