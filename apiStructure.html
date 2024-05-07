@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>   
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="css/style.css">
+        <script src="jquery-3.6.0.min.js"></script>
+        <style src="css/apiTable.css"></style>
+        <title>Api</title>
+    </head>
+    <body>
+        <table id="apiTable">
+            
+             
+              
+        </table>
+    </body>
+    <script>
+        $(document).ready(function()
+        {
+            $.getJSON("https://opentdb.com/api.php?amount=10", function(data) {
+                var table = $("#apiTable");
+                
+                $.each(data.results, function(index, questions) {   
+                    var row = $("<tr>");
+                        row.append("<td>"+questions.question+"</td>");
+                        row.append("<td>"+questions.type+"</td>");
+                        row.append("<td>"+questions.correct_answer+"</td>");
+                        row.append("<td>"+questions.incorrect_answers+"</td>");
+                    row.append("</tr>");
+                table.append(row);
+                }); 
+          
+                
+            });
+        });
+    </script>
+</html>
