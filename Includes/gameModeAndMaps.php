@@ -4,7 +4,7 @@ echo '
 <head>
 
     <title>Gamemodes and Maps</title>
-    <link rel="stylesheet" href="../styles/stylesheet_maps.css">
+    <link rel="stylesheet" href="../Styles/stylesheet_maps.css">
 </head>
 <body>
 <h1>ISS Location</h1>

@@ -3,7 +3,7 @@
 echo '
 <head>
     <title>Gamemode</title>
-    <link rel="stylesheet" href="../styles/stylesheet_maps.css">
+    <link rel="stylesheet" href="../Styles/stylesheet_maps.css">
 </head>
 <body>
 <h1>Brawl Star Gamemodes</h1>
