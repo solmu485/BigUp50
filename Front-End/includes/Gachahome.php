@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Random Prize Picker</title>
-    <link rel="stylesheet" type="text/css" href="../css/Stylemusa.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../Styles/Stylemusa.css" media="screen" />
     <?php
     include_once "navigation.php";
     ?>
