@@ -14,7 +14,7 @@
     <a href="Char_Search.php">Character Suche/a>
     <a href="ranking.php">Ranking</a>
     <a href="maps.php">Maps</a>
-    <a href="gameMode">GameModes</a>
+    <a href="gameMode.php">GameModes</a>
     <a href="gameModeAndMaps.php">Maps of Gamemodes</a>
 </div>
 
