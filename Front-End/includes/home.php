@@ -3,7 +3,7 @@
 <?php
 include_once "navigation.php";
 ?>
-<link rel="stylesheet" type="text/css" href="../css/Stylemusa.css">
+<link rel="stylesheet" type="text/css" href="../Styles/Stylemusa.css">
 <div id="lelek">
     <h1>Welcome to the Brawl Talk Homepage</h1>
     <p>
