@@ -16,6 +16,8 @@
     <a href="maps.php">Maps</a>
     <a href="gameMode.php">GameModes</a>
     <a href="gameModeAndMaps.php">Maps of Gamemodes</a>
+    <a href="guessTheBrawler.php">BrawlerGuess</a>
+    <a href="category_rarity_brawler.php">Show Brawlers</a>    
 </div>
 
 
