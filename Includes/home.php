@@ -10,7 +10,6 @@
     <h1>Welcome to the Brawl Talk Homepage</h1>
     <?php
     include_once "navigation.php";
-    include_once "../Back-End/includes/functiongacha.php";
     ?>
     <?php
     // Originaltext
