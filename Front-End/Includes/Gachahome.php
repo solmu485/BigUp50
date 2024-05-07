@@ -2,28 +2,12 @@
 <html>
 <head>
     <title>Random Prize Picker</title>
-    <link rel="stylesheet" type="text/css" href="../css/Stylemusa.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="../Styles/Stylemusa.css" media="screen" />
     <?php
     include_once "navigation.php";
+    include_once "../../Back-End/includes/functiongacha.php";
     ?>
-    <script>
-
-        function pickRandomPrize() {
-            // Hide the image
-            document.getElementById("boxImage").style.display = "none";
-
-            // Send an AJAX request to the PHP script
-            var request = new XMLHttpRequest();
-            request.open("GET", "../../Back-End/includes/Gacha.php", true);
-            request.onreadystatechange = function() {
-                if (request.readyState == 4 && request.status == 200) {
-                    // Update the content of the result div with the response
-                    document.getElementById("result").innerHTML = request.responseText;
-                }
-            };
-            request.send();
-        }
-    </script>
+    <script src="front_end_rankings.js"></script>
 </head>
 <body>
 <h1>Random Prize Picker</h1>

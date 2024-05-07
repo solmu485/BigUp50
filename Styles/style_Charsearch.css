@@ -1,0 +1,190 @@
+body {
+    font-family: 'Brawl Stars', Arial, sans-serif;
+    background-color: #0f0c29;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 36px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#character {
+    width: 50%;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    display:flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+#characterList {
+    width: 50%;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#characterList input[type="text"] {
+    width: 50%;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color: #2d274a;
+    color: #ffffff;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#characterList select {
+    width: 50%;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color: #2d274a;
+    color: #ffffff;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#characterDetails {
+    width: 50%;
+    padding: 10px;
+    background-color: #2d274a;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+    .brawl-stars-font {
+    font-family: 'Brawl Stars', Arial, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 36px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.search-bar input[type="text"] {
+    flex-grow: 1;
+    border: none;
+    background-color: transparent;
+    color: #ffffff;
+    margin-right: 10px;
+}
+
+.search-bar button {
+    background-color: #ffffff;
+    color: #0f0c29;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.search-bar button:hover {
+    background-color: #e6e6e6;
+}
+
+.character-list {
+    margin-top: 20px;
+}
+
+.character-list select {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color: #2d274a;
+    color: #ffffff;
+}
+
+.character-details {
+    margin-top: 20px;
+}
+
+.character-details h2 {
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.character-details p {
+    font-size: 18px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+.progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.progress-bar{
+    height: 20px;
+    background-color: #2d274a;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.bar {
+    height: 100%;
+    background-color: #ffcc33; width: 50%; border-radius: 10px; transition: width 0.5s ease;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
