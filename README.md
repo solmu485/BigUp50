@@ -11,11 +11,13 @@ BRAWL TALK ist eine vollständige Brawl Stars Fanseite, die von Supercells entwi
 
 ## Anteilung des Webseites:
 Dies sind die Anteilung. Denoch kann jeder mit anderen helfen und deren Anteilung mitmachen.
-- Home: Tom
-- Info: Taulant
-- Karten und Top-Picks: Melvin
-- Gacha (Mini-Spiel): Musa
-- Kontakt: [Noch zu bestimmen]
+- Guess the Brawler & Brawler Categories und Seltenheit : Tom
+- GIF Api & Quiz : Taulant
+- Character Suche & Ranking: Melvin
+- Gacha (Mini-Spiel): Musa/Franjo
+- Joda Api & Index & Navigations: Franjo/Musa
+- Maps & Spielmodies: Jean
+- Datenbank: Alle
 
 ## Ziele  
 - Zeit Sparen  

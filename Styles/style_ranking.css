@@ -1,0 +1,114 @@
+body {
+    font-family: 'Brawl Stars', Arial, sans-serif;
+    background-color: #0f0c29;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#flags {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1a1433;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+}
+
+.select-container {
+    margin-bottom: 20px;
+}
+
+.select-container select {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    width: 100%;
+    background-color: #2d274a;
+    color: #ffffff;
+}
+
+#countryInfo {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color: #2d274a;
+}
+
+#countryInfo h2 {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.country-info-item {
+    margin-bottom: 10px;
+}
+
+.country-info-item label {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.country-info-item span {
+    margin-left: 10px;
+    color: #ffffff;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ffffff;
+    color: #ffffff;
+}
+
+th {
+    background-color: #0f0c29;
+    color: #ffffff;
+}
+
+tr:nth-child(even) {
+    background-color: #1a1433;
+}
+
+tr:hover {
+    background-color: #2d274a;
+}
+
+.blue {
+    color: #0f0c29;
+}
+
+.black {
+    color: #1a1433;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.red {
+    color: #ff3333;
+}
+
+.yellow {
+    color: #ffcc33;
+}
