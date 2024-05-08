@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+    
     <title>Random Prize Picker</title>
     <link rel="stylesheet" type="text/css" href="../Styles/Stylemusa.css" media="screen" />
     <?php
+    // Musa 
     include_once "navigation.php";
     include_once "../Back-End/includes/functiongacha.php";
     ?>
