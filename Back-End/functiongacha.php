@@ -1,5 +1,5 @@
 <script>
-
+// Musa 
     function pickRandomPrize() {
         // Hide the image
         document.getElementById("boxImage").style.display = "none";
