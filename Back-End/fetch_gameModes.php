@@ -3,7 +3,7 @@
  * Brawlstars api from https://brawlapi.com/#/ */
 
 // Make a GET request to the API
-$response = file_get_contents('sources/api/gamemodes.json');
+$response = file_get_contents('');
 
 // Check if API request was successful
 if ($response === FALSE) {

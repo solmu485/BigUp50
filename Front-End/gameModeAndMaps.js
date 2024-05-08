@@ -1,7 +1,6 @@
 //@author walers jean
 // Fetch data from the PHP script
-fetch('../Back-End/fetch_modeAndMap.php') // Replace 'path_to_your_php_script.php' with the actual path to your PHP
-script
+fetch('../Back-End/fetch_modeAndMap.php') 
     .then(response => response.json())
     .then(data => {
         // Group maps by game mode
