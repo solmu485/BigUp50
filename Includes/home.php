@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+
+    <meta charset="UTF-8" name="home">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Yoda Translation Example</title>
 </head>
@@ -9,9 +10,7 @@
 <div id="lelek">
     <h1>Welcome to the Brawl Talk Homepage</h1>
     <?php
-    include_once "navigation.php";
-    ?>
-    <?php
+    /** @author Musa und Franjo */
     // Originaltext
     $originalContent = "\"Brawl Stars\" is a fast-paced multiplayer online battle game developed by Supercell. Set in a vibrant and colorful universe, players control a diverse cast of characters known as \"Brawlers,\" each with their own unique abilities and playstyles.
 
@@ -40,6 +39,7 @@
         <tbody>
         <?php
         // Verbindung zur Datenbank herstellen
+        include_once "db_cred.php";
         $dbc = mysqli_connect("localhost", "username", "password", "database");
         mysqli_set_charset($dbc, 'utf8');
 
@@ -66,7 +66,7 @@
         </tbody>
     </table>
 
-    <div class="imagehome"><img src="../images/homepic.jpg"></div>
+    <div class="imagehome"><img src="images/homepic.jpg"></div>
 
     <script>
         document.addEventListener("DOMContentLoaded", function () {
@@ -122,7 +122,7 @@
             });
         });
     </script>
-    <script src="../Front-End/front_end_ranking.js"></script>
+    <script src="Front-End/front_end_ranking.js"></script>
 </div>
 </body>
 </html>

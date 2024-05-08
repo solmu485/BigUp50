@@ -10,7 +10,7 @@
     <title>Guess the Brawler</title>
 </head>
 <body>
-    <img src="../images/Brawl Stars_Image.jpg" alt="Guess the player" id="player-image">
+    <img src="../images/Brawl%20Stars_Image.jpg" alt="Guess the player" id="player-image">
         <!-- Different Buttons for the game-->
     <button type="button" id="button_start">Start</button>
     <br>

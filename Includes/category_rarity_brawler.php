@@ -1,4 +1,7 @@
 <!-- @author Tom Hermes -->
+<?php
+include_once "navigation.php";
+?>
 <!DOCTYPE html>
 <html lang="de">
 <head>

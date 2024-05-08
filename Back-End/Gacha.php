@@ -1,6 +1,6 @@
 <?php
 
-
+/** @author Musa und Franjo */
 // MySQL database configuration
 $servername = "89.58.47.144"; // Change this to your database server name
 $username = "brawlTalkUser"; // Change this to your database username
