@@ -1,59 +1,51 @@
-
-<!DOCTYPE html>
-<html lang="de">
+<?php
+session_start();
+?>
+<!doctype html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="Styles/Stylemusa.css">
-    <script src="js/jquery-3.7.1.js"></script>
-    <title>Recycling Zenter</title>
-
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="Styles/Stylemusa.css">
 </head>
+
 <body>
-<main>
-    <div id="index-background">
+<header>
+    <?php
+    include_once "Includes/header.php"; // Displaying the header
+    ?>
+</header>
 
-        <?php
-// Musa und Franjo
+<?php
 
+$page="";
 
-        $page = "";
+if(isset($_GET['page'])) {  //auflisten der php Seiten
+    $page = $_GET['page'];
+    if ($page == "home") {  // einen If um die verschiene Seiten zufinden
 
-        if (isset($_GET['page'])) {
-            $page = $_GET['page'];
-        }
+        include_once "Includes/home.php";
 
-        $noUser = $_SESSION['noUser'];
-
-        //if um Navigation Dynamisch zu erstellen
-        if ($page == "home") {
-            include_once "Includes/home.php";
-        } else if ($page == "Gacha") {
-            include_once "Includes/Gachahome.php";
-        } else if ($page == "Char_Search") {
-            include_once "Includes/Char_Search.php";
-        }else if ($page == "ranking") {
-            include_once "Includes/ranking.php";
-        }else if ($page == "maps") {
-            include_once "Includes/maps.php";}
-        else if ($page == "gameMode") {
-            include_once "Includes/gameMode.php";}
-        else if ($page == "gameModeAndMaps") {
-            include_once "Includes/gameModeAndMaps.php";}
-        else if ($page == "guessTheBrawler") {
-            include_once "Includes/guessTheBrawler.php";}
-        else if ($page == "category_rarity_brawler") {
-            include_once "Includes/category_rarity_brawler.php";}
-        else {
-            include_once "Includes/home.php";
-        }
-
-
-        include_once "includes/footer.php";
-
-
-        ?>
-    </div>
-</main>
+    }elseif ($page == "Gachahome"){
+        include_once "Includes/Gachahome.php";
+    }elseif ($page == "Characters"){
+        include_once "Includes/Characters.php";
+    }elseif ($page == "quiz"){
+        include_once "Includes/quiz.php";
+    }elseif ($page == "guesTheBrawler"){
+        include_once "Includes/guessTheBrawler.php";
+    }
+    else {
+        include_once "Includes/home.php";
+    }
+}
+?>
+<footer>
+    <hr>
+    &copy; Musa Can Serdar Solak
+</footer>
 </body>
 </html>

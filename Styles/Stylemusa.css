@@ -20,63 +20,33 @@ color: white;
     width: 80%;
     padding-left: 10%;
 }
-
-
-/* Css für die navbar */
-.navbar {
-    background-color: #1E88E5;
-    overflow: hidden;
+/* Header styles */
+header {
+    background-color: #188491; /* Green background color */
+    padding: 20px; /* Add some padding */
+    text-align: center; /* Center the content */
 }
 
-.navbar a {
-    float: left;
-    display: block;
-    color: white; 
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
+nav ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
 }
 
-.navbar a:hover {
-    background-color: #0D47A1; 
+nav ul li {
+    display: inline; /* Display list items horizontally */
+    margin-right: 20px; /* Add space between list items */
 }
 
-.active {
-    background-color: #0D47A1; 
+nav ul li a {
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline */
+    font-size: 18px; /* Adjust font size */
 }
 
-/* Media Query für kleine Bildschirme */
-@media screen and (max-width: 600px) {
-    .navbar a {
-        float: none;
-        display: block;
-        text-align: left;
-    }
+nav ul li a:hover {
+    text-decoration: underline; /* Add underline on hover */
 }
- #click {
-     background-color: #000;
-     color: #fff;
-     border: none;
-     border-radius: 20px; /* Adjust the value to change the roundness */
-     padding: 10px 20px;
-     text-align: center;
-     text-decoration: none;
-     display: inline-block;
-     font-size: 16px;
-     margin: 4px 2px;
-     cursor: pointer;
-     transition-duration: 0.4s;
-     outline: none;
- }
 
-#click:hover {
-    background-color: #555;
-    color: white;
-}
-.hidden {
-    display: none;
-}
-.hidden {
-    display: none;
-}
+
+
 

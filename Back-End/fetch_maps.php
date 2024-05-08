@@ -1,7 +1,7 @@
 <?php
 /** @author Walers Jean*/
 // Make a GET request to the API
-$response = file_get_contents('sources/api/maps.json');
+$response = file_get_contents('../sources/api/maps.json');
 
 // Check if API request was successful
 if ($response === FALSE) {

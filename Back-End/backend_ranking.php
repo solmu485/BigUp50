@@ -61,7 +61,7 @@ if (isset($_GET['flag']) && isset($_GET['count'])) {
 
 
             // Wenn Api Failed, dann Daten aus der Datanbank auslesen
-            include 'db_cred.php';
+            include '../Includes/db_cred.php';
 
             // SQL Query preparieren
             $stmt = $conn->prepare("SELECT Name, Trophies, Rank, ClubName, Country FROM Player WHERE Country = ? ORDER BY Rank ASC LIMIT ?");

@@ -1,5 +1,4 @@
 <?php
-
     echo '
         <link rel="stylesheet" href="../Styles/styles_gif.css">
         <h1>Giphy GIF Search</h1>

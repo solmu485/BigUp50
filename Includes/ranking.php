@@ -1,5 +1,4 @@
 <?php
-
     echo '    <link rel="stylesheet" href="../Styles/style_ranking.css">
         <h1>Top Players</h1>
           <select id="playerCount">
@@ -26,4 +25,5 @@
     '
 
 ?>
+
 

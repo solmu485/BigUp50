@@ -1,5 +1,8 @@
 <?php
 /** @author Walers Jean */
+
+include_once "navigation.php";
+
 echo '
 <head>
     <title>Gamemode</title>
