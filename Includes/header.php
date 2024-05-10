@@ -3,6 +3,7 @@ session_start();
 ?>
 <link rel="stylesheet" type="text/css" href="../Styles/Stylemusa.css" media="screen" />
 <?php
+//@author Musa Solak
 echo "<nav>";
 $menu = [
         "home" => "home",
