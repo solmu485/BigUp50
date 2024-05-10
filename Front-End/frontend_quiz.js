@@ -1,4 +1,4 @@
-
+<!--@author Taulant Halimi -->
     $(document).ready(function() {
     // Hide the div to display Question and Answers //
     $("#divQuestion").hide();
@@ -8,14 +8,14 @@
     $("#divFeedback").hide();
     $("#buttonNextQuestion").hide(); // Hide the Next Question button initially
 
-    var currentIndex = 0;
-    var data;
-    var points = 0;
-    var sessionToken;
+    let currentIndex = 0;
+    let data;
+    let points = 0;
+    let sessionToken;
 // Function to request a session token
     function requestSessionToken(callback) {
     $.ajax({
-    url: "../Back-End/getSessionToken.php",
+    url: "Back-End/getSessionToken.php",
     success: function(response) {
     sessionToken = response;
     console.log("Session token:", sessionToken);
@@ -60,7 +60,7 @@
     // Function to reset the session token
     function resetSessionToken(responseCode) {
     $.ajax({
-    url: "../Back-End/resetSessionToken.php?response_code=" + responseCode,
+    url: "Back-End/resetSessionToken.php?response_code=" + responseCode,
     success: function(response) {
     console.log("Session token reset");
 
@@ -190,7 +190,7 @@
     var topic = $("#h2Topic").html();
     var isCorrect = (selectedAnswer === correctAnswer);
 
-    $.post("../Back-End/validateAnswer.php", {
+    $.post("Back-End/validateAnswer.php", {
     "POST_question": questionText,
     "POST_answer": selectedAnswer,
     "POST_correctAnswer": correctAnswer,
