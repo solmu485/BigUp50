@@ -1,6 +1,7 @@
-<?php
-echo '
-<link rel="stylesheet" href="../Styles/styles_gif.css">
+<!--@author Taulant Halimi -->
+<script src="Front-End/jquery-3.6.2.js"></script>
+
+<link rel="stylesheet" href="Styles/style_quiz.css">
 
 <header>
     <h1 id="h1Quiz">Trivial Quiz</h1>
@@ -52,7 +53,6 @@ echo '
         <button type="button" id="buttonNextQuestion">Next Question</button>
     </div>
 </div>
- <script src="Front-End/Script_gif.js"></script>
-'
-?>
+ <script src="Front-End/frontend_quiz.js"></script>
+
 
