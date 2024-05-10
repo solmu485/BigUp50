@@ -5,7 +5,7 @@ const playerCountSelect = document.getElementById("playerCount");
 
 // Zur backend ausfgreifen
 const fetchData = (flagId, count) => {
-    fetch(`../Back-End/backend_ranking.php?flag=${flagId}&count=${count}`)
+    fetch(`Back-End/backend_ranking.php?flag=${flagId}&count=${count}`)
         .then(response => response.text())
         .then(data => {
             countryInfo.innerHTML = data;

@@ -4,7 +4,7 @@
 $(document).ready(function(){
 
     $.ajax({
-        url: "../Back-End/backend_CategoryBrawler.php",  
+        url: "Back-End/backend_CategoryBrawler.php",
         data: {category: true}, 
         dataType: "json",
         success: function(result){
@@ -15,7 +15,7 @@ $(document).ready(function(){
         }
     });
     $.ajax({
-        url: "../Back-End/backend_RarityBrawler.php", 
+        url: "Back-End/backend_RarityBrawler.php",
         data: {rarity: true}, 
         dataType: "json",
         success: function(result){

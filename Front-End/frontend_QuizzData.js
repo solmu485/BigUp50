@@ -9,7 +9,7 @@ $(document).ready(function(){
         $("#message_true_brawler").empty();
 
         $.ajax({
-            url: "../Back-End/backend_quizz.php", 
+            url: "Back-End/backend_quizz.php",
             data: {randomBrawler: true}, 
             dataType: "json",
             success: function(result){
@@ -36,7 +36,7 @@ $(document).ready(function(){
         //Wenn Brawler falsch ist, dann Informationen von gewählten Brawler zeigen
         else{
             $.ajax({
-                url: "../Back-End/backend_quizz.php", 
+                url: "Back-End/backend_quizz.php",
                 data: {guessBrawler: true, query: inputBrawler}, 
                 dataType: "json",
                 success: function(result){

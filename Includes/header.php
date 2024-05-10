@@ -9,7 +9,13 @@ $menu = [
     "Gacha" => "Gachahome",
     "Characters" => "Characters",
     "quiz" => "quiz",
-    "guesTheBrawler" => "guesTheBrawler"
+    "guesTheBrawler" => "guesTheBrawler",
+    "category_rarity_brawler"=> "category_rarity_brawler",
+    "gameMode" => "gameMode",
+    "gif" => "gif",
+    "maps" => "maps",
+    "ranking" => "ranking"
+
 ];
 echo "<ul>";
 foreach ($menu as $key => $url) {

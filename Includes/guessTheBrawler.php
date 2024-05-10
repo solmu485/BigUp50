@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="../Front-End/jquery-3.6.2.js"></script>
-    <link rel="stylesheet" href="../Styles/guessTheBrawler.css">
+    <script src="Front-End/jquery-3.6.2.js"></script>
+    <link rel="stylesheet" href="Styles/guessTheBrawler.css">
 
     <title>Guess the Brawler</title>
 </head>
 <body>
-    <img src="../images/Brawl%20Stars_Image.jpg" alt="Guess the player" id="player-image">
+    <img src="images/Brawl%20Stars_Image.jpg" alt="Guess the player" id="player-image">
         <!-- Different Buttons for the game-->
     <button type="button" id="button_start">Start</button>
     <br>
@@ -32,6 +32,6 @@
     </table>
     <div id="message_true_brawler"></div>
     
-    <script src="../Front-End/frontend_QuizzData.js" defer></script>
+    <script src="Front-End/frontend_QuizzData.js" defer></script>
 </body>
 </html>

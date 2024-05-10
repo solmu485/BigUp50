@@ -1,6 +1,6 @@
 <?php
 echo '
-<link rel="stylesheet" href="../../../../OneDrive%20-%20365education/Desktop/New%20folder%20(5)/BigUp50-main/Styles/style_quiz.css">
+<link rel="stylesheet" href="../Styles/styles_gif.css">
 
 <header>
     <h1 id="h1Quiz">Trivial Quiz</h1>
@@ -52,7 +52,7 @@ echo '
         <button type="button" id="buttonNextQuestion">Next Question</button>
     </div>
 </div>
- <script src="../../../../OneDrive%20-%20365education/Desktop/New%20folder%20(5)/BigUp50-main/Front-End/Script_gif.js"></script>
+ <script src="Front-End/Script_gif.js"></script>
 '
 ?>
 

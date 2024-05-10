@@ -5,7 +5,7 @@ echo '
 <head>
 
     <title>Maps</title>
-    <link rel="stylesheet" href="../Styles/stylesheet_maps.css">
+    <link rel="stylesheet" href="Styles/stylesheet_maps.css">
 
 </head>
 <body>
@@ -14,8 +14,8 @@ echo '
 <div id="output" class="image-container"></div>
 
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="../Front-End/maps.js"></script>
+<script src="Back-End/jquery-3.6.0.min.js"></script>
+<script src="Front-End/maps.js"></script>
 
 </body>
 '

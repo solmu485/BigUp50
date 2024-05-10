@@ -37,15 +37,21 @@ if(isset($_GET['page'])) {  //auflisten der php Seiten
         include_once "Includes/quiz.php";
     }elseif ($page == "guesTheBrawler"){
         include_once "Includes/guessTheBrawler.php";
+    }elseif ($page == "gameMode"){
+        include_once "Includes/gameMode.php";
+    }elseif ($page == "category_rarity_brawler"){
+        include_once "Includes/category_rarity_brawler.php";
+    } elseif ($page == "maps"){
+        include_once "Includes/maps.php";
+    }elseif ($page == "gif"){
+        include_once "Includes/gif.php";
+    }elseif ($page == "ranking"){
+        include_once "Includes/ranking.php";
     }
     else {
         include_once "Includes/home.php";
     }
 }
 ?>
-<footer>
-    <hr>
-    &copy; Musa Can Serdar Solak
-</footer>
 </body>
 </html>

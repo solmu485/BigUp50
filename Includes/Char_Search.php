@@ -1,7 +1,7 @@
 <?php
 
 echo '
-    <link rel="stylesheet" href="../Styles/style.css">
+    <link rel="stylesheet" href="Styles/style.css">
     <h1>Brawl Stars Characters</h1>
 
     <input type="text" id="character" placeholder="Search Character">
@@ -14,6 +14,6 @@ echo '
     </div>
 
     <script src="jquery.js"></script>
-    <script src="../Front-End/frontend_Charsearch.js"></script>
+    <script src="Front-End/frontend_Charsearch.js"></script>
  '
 ?>

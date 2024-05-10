@@ -1,5 +1,5 @@
 <?php
-    echo '    <link rel="stylesheet" href="../Styles/style_ranking.css">
+    echo '    <link rel="stylesheet" href="Styles/style_ranking.css">
         <h1>Top Players</h1>
           <select id="playerCount">
           <option value="10">Top 10 Players</option>
@@ -21,7 +21,7 @@
     
         <div id="countryInfo"></div>
     
-        <script src="../Front-End/front_end_ranking.js"></script>
+        <script src="Front-End/front_end_ranking.js"></script>
     '
 
 ?>
