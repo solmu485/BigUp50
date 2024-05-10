@@ -1,4 +1,4 @@
-/* Reset default browser styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -8,7 +8,7 @@
 /* Body styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
+    background-color: black;
     padding: 20px;
 }
 
@@ -41,14 +41,14 @@ input[type="text"] {
     padding: 10px;
     width: 200px;
     margin-right: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid black;
     border-radius: 5px;
 }
 
 button {
     padding: 10px 20px;
     background-color: #007bff;
-    color: #fff;
+    color: black;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -76,3 +76,4 @@ button:hover {
     object-fit: cover; /* Maintain aspect ratio and fill the container */
     border-radius: 5px; /* Optional: Add rounded corners */
 }
+
