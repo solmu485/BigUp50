@@ -1,7 +1,7 @@
 //@author walers jean
 
 // Make an AJAX request to the backend PHP script
-src="https://code.jquery.com/jquery-3.6.0.min.js";
+
     $.ajax({
     url: 'Back-End/fetch_gameModes.php',
     type: 'GET',

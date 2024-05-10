@@ -47,8 +47,9 @@ if(isset($_GET['page'])) {  //auflisten der php Seiten
         include_once "Includes/gif.php";
     }elseif ($page == "ranking"){
         include_once "Includes/ranking.php";
-    }
-    else {
+    }elseif ($page == "gameModeAndMaps"){
+        include_once  "Includes/gameModeAndMaps.php";
+        }    else {
         include_once "Includes/home.php";
     }
 }

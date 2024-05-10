@@ -14,7 +14,7 @@
     <a href="Characters.php">Character Suche</a>
     <a href="ranking.php">Ranking</a>
     <a href="maps.php">Maps</a>
-    <a href="gameMode.php">GameModes</a>
+    <a href="gameMode.php">Game Modes</a>
     <a href="gameModeAndMaps.php">Maps of Gamemodes</a>
     <a href="guessTheBrawler.php">BrawlerGuess</a>
     <a href="gif.php">gif</a>

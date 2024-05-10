@@ -12,10 +12,11 @@ $menu = [
     "quiz" => "quiz",
     "guesTheBrawler" => "guesTheBrawler",
     "category_rarity_brawler"=> "category_rarity_brawler",
-    "gameMode" => "gameMode",
     "gif" => "gif",
-    "maps" => "maps",
-    "ranking" => "ranking"
+    "ranking" => "ranking",
+    "Maps" => "maps",
+    "Game Mode" => "gameMode",
+    "Mode and Maps" => "gameModeAndMaps"
 
 ];
 echo "<ul>";

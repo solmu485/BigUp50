@@ -24,11 +24,13 @@ foreach ($data['list'] as $map) {
     // Extract the map name and image URL
     $imageName = $map['name'];
     $imageUrl = $map['imageUrl'];
+    $gameMode = $map['gameMode']['name'];
 
     // Add the image name and URL to the array
     $imageData[] = array(
         'name' => $imageName,
-        'url' => $imageUrl
+        'url' => $imageUrl,
+        'gameMode'.'name' => $gameMode
     );
 }
 

@@ -13,7 +13,7 @@ function fetchData($url) {
     $data = json_decode($response, true);
 
     // Check if decoding was successful
-    if ($data === NULL || !isset($data['list'])) {
+    if ($data === NULL || empty($data)) {
         die("Invalid JSON response from API");
     }
 
@@ -42,7 +42,7 @@ foreach ($mapsData as $map) {
     // If game mode data is found, add it to the combined data
     if (!empty($gameModeData)) {
         $gameModeData = reset($gameModeData);
-        $gameModeImageUrl = $gameModeData['imageUrl'];
+        $gameModeImageUrl = $gameModeData['imageUrl2'];
 
         $combinedData[] = array(
             'map_name' => $mapName,

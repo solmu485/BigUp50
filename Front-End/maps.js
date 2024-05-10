@@ -1,6 +1,6 @@
 
 //@author walers jean
-src="Back-End/jquery-3.6.0.min.js";
+
 // Make an AJAX request to the backend PHP script
 $.ajax({
     url: 'Back-End/fetch_maps.php',
