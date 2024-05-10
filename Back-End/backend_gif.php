@@ -1,3 +1,4 @@
+<!--@author Taulant Halimi -->
 <?php
 
 if (isset($_GET['query'])) {
