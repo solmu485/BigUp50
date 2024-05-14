@@ -1,5 +1,6 @@
 <?php
 
+//@author MELVIN
 function fetchDataFromAPI($apiKey, $country, $limit) {
     $url = "https://api.brawlstars.com/v1/rankings/$country/players?limit=$limit";
     $headers = array(

@@ -1,0 +1,3527 @@
+[
+    {
+        "name": "Temple Ruins",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000000.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Stone Fort",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000001.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Deathcap Trap",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000002.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Crystal Clearing",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000003.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Snake Prairie",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000004.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Shooting Star",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000005.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Outlaw Camp",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000006.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Hard Rock Mine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000007.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Crystal Arcade",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000008.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Deathcap Trap",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000009.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Gem Fort",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000010.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Undermine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000011.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Deep Diner",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000012.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Skull Creek",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000013.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Scorched Stone",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000014.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Rockwall Brawl",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000015.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Feast Or Famine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000016.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Bandit Stash",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000017.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Kaboom Canyon",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000018.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Safe Zone",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000019.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Team Day",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000021.png",
+        "gameModename": "Big Game"
+    },
+    {
+        "name": "Hideout",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000022.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "G.g. Mortuary",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000023.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Backyard Bowl",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000024.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Triple Dribble",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000025.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Pinhole Punt",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000026.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Pachinko Park",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000027.png",
+        "gameModename": "Robo Rumble"
+    },
+    {
+        "name": "Double Trouble",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000028.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Steel Junction",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000029.png",
+        "gameModename": "Robo Rumble"
+    },
+    {
+        "name": "Chew Out",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000030.png",
+        "gameModename": "Big Game"
+    },
+    {
+        "name": "Sapphire Plains",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000031.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Acid Lakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000032.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Cavern Churn",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000033.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Skull Creek",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000034.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Scorched Stone",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000035.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Rockwall Brawl",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000036.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Feast Or Famine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000037.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Acid Lakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000038.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Keep Safe",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000039.png",
+        "gameModename": "Robo Rumble"
+    },
+    {
+        "name": "Chill Space",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000040.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Echo Chamber",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000041.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Fancy Fencing",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000042.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Double Trouble",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000043.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Cavern Churn",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000044.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Island Invasion",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000045.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Island Invasion",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000046.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Forks Out",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000047.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Flooded Mine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000048.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Cactus Corridor",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000049.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Sneaky Fields",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000050.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Super Beach",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000051.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Puddle Splash",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000052.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Hot Potato",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000053.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Canal Grande",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000054.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Hot Maze",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000055.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Hot Maze",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000056.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Machine Zone",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000057.png",
+        "gameModename": "Boss Fight"
+    },
+    {
+        "name": "Snow Fort",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000058.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Holiday Chill",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000059.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Snowball Fight",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000060.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Ice Block Rock",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000061.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Snowy Siege",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000062.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Gift Wrap",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000063.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Spruce Up",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000064.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Hunting Party",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000065.png",
+        "gameModename": "Big Game"
+    },
+    {
+        "name": "Table Flip",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000066.png",
+        "gameModename": "Big Game"
+    },
+    {
+        "name": "Metal Scrap",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000067.png",
+        "gameModename": "Boss Fight"
+    },
+    {
+        "name": "Vault Defenders",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000068.png",
+        "gameModename": "Robo Rumble"
+    },
+    {
+        "name": "Split Second",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000069.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Rolling Rumble",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000070.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Twist And Shoot",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000071.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Bridge Too Far",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000072.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Corner Case",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000073.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Split Second",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000074.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Rolling Rumble",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000075.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Twist And Shoot",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000076.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Bridge Too Far",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000077.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Corner Case",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000078.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Canal Grande",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000079.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Bull Pen",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000080.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Excel",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000081.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Layer Cake",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000082.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Dry Season",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000083.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Canal Grande",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000084.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Bull Pen",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000085.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Excel",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000086.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Layer Cake",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000087.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Dry Season",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000088.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Merch Fort",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000089.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Undermine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000090.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Deep Diner",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000091.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Pool Party",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000092.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Dune Drift",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000093.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Dune Drift",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000094.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Stormy Plains",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000095.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Stormy Plains",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000096.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Bot Drop",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000097.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Some Assembly Required",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000098.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Nuts & Bolts",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000099.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Royal Tribute",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000100.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Dark Passage",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000101.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Dark Passage",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000102.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Ghost Point",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000103.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Ghost Point",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000104.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Erratic Blocks",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000105.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Erratic Blocks",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000106.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "River Rush",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000107.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "River Rush",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000108.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Eye Of The Storm",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000109.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Eye Of The Storm",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000110.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Diamond Dust",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000111.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Four Squared",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000112.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Bouncing Diner",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000113.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Escape Velocity",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000114.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Double Swoosh",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000115.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Cell Division",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000116.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Spring Trap",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000117.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Pinball Dreams",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000118.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Team Day",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000119.png",
+        "gameModename": "Big Game"
+    },
+    {
+        "name": "Chew Out",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000120.png",
+        "gameModename": "Big Game"
+    },
+    {
+        "name": "Minecart Madness",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000122.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Flying Fantasies",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000123.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Flying Fantasies",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000124.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Royal Runway",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000125.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Royal Runway",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000126.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Junk Park",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000127.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Sparring Match",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000128.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Straight Shot",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000129.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Assembly Attack",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000130.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Robo Highway",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000131.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Center Stage",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000132.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Danger Zone",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000133.png",
+        "gameModename": "Boss Fight"
+    },
+    {
+        "name": "Curveball",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000134.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Superstar",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000135.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Superstar",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000136.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Pit Stop",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000137.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Side Story",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000138.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Cross Cut",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000139.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Stock Crash",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000140.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Mecha Match",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000141.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Factory Rush",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000142.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Beach Ball",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000143.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Sunny Soccer",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000144.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Beachcombers",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000145.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Twisted Gems",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000146.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Acute Angle",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000147.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Snake Shop",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000148.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Sunstroke",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000149.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Burning Sands",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000150.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Figure 8",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000151.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Deserted Vertex",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000152.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Deserted Vertex",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000153.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Outrageous Outback",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000154.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Outrageous Outback",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000155.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Barren Badlands",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000156.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Barren Badlands",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000157.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Royal Flush",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000158.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Overgrown Canyon",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000159.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Field Goal",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000160.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Post Haste",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000161.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Slalom Slam",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000162.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Coarse Course",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000163.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Power Shot",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000164.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Critical Crossing",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000165.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Critical Crossing",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000166.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Last Stand",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000167.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Boss Drop",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000168.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Frenemies",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000169.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Bulk Up",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000170.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Training Montage",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000171.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Maze Mayhem",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000172.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Silly Standoff",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000173.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Shore Shot",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000174.png",
+        "gameModename": "Lone Star"
+    },
+    {
+        "name": "Not So Safe",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000175.png",
+        "gameModename": "Lone Star"
+    },
+    {
+        "name": "Stolen Valor",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000176.png",
+        "gameModename": "Lone Star"
+    },
+    {
+        "name": "Cauliflower",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000177.png",
+        "gameModename": "Lone Star"
+    },
+    {
+        "name": "Close Call",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000178.png",
+        "gameModename": "Lone Star"
+    },
+    {
+        "name": "Spinning Solo",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000179.png",
+        "gameModename": "Lone Star"
+    },
+    {
+        "name": "Crossroads",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000180.png",
+        "gameModename": "Lone Star"
+    },
+    {
+        "name": "Peak Oil",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000181.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Cuckoo Coup",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000182.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Scrap Metal",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000183.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Funky Punk",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000184.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Clockwork",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000185.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Alligator Alley",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000186.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Tight Stuff",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000187.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Skull Creek",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000188.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Skull Creek",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000189.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Hot Maze",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000190.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Hot Maze",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000191.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Acid Lakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000192.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Acid Lakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000193.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Ghost Point",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000194.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Ghost Point",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000195.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Forsaken Falls",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000196.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Forsaken Falls",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000197.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Dark Passage",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000198.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Dark Passage",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000199.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Eye Of The Storm",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000200.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Eye Of The Storm",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000201.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Maze Creep",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000202.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Walk In Walk Out",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000203.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Zip Line",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000204.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Daylight Robbery",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000205.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Trophy Trespass",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000206.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Smugglers",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000207.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Twisted Plan",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000208.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Time Out",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000209.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Swirling Storm",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000210.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Excellent Escapade",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000211.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Spare Space",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000212.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Shabby Shells",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000213.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Secret Surprise",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000214.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Green Deck",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000215.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Bandit Cove",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000216.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Tornado Ring",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000217.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Deeper Danger",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000218.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Land Ahoy",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000219.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Point Of View",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000220.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Point Of View",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000221.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Circular Canyon",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000222.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Circular Canyon",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000223.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Rocky Blocks",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000224.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Rocky Blocks",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000225.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Stocky Stockades",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000226.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Stocky Stockades",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000227.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Safety Center",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000228.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Safety Center",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000229.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Core Crumble",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000230.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Core Crumble",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000231.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Treasure Hunt",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000232.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Treasure Hunt",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000233.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Two Thousand Lakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000234.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Two Thousand Lakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000235.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Bank Shot",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000236.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Playbox",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000237.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Penalty Kick",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000238.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Substitute",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000239.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Happy Feet",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000240.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Square Off",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000241.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Barrel Vault",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000242.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Cavern Churn",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000243.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Cavern Churn",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000244.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Quarter Pounder",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000245.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "High Score",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000246.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Temple Of Boom",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000247.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Breakout Brawl",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000248.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Controller Chaos",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000249.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Golden Hacks",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000250.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Street Brawler 2",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000251.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Galaxy Arena",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000252.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Shoulder Bash",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000253.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Well Cut",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000254.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Center Field",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000255.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Warped Beach",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000256.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Thousand Lakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000257.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Thousand Lakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000258.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Super Beach",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000259.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Pinball Dreams",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000260.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Galaxy Arena",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000261.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Crated Factory",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000262.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Fenced In",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000263.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Olive Branch",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000264.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Heat Wave",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000265.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Cobweb",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000266.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Traffic Jam",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000267.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Crossroads",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000268.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Super City",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000269.png",
+        "gameModename": "Super City Rampage"
+    },
+    {
+        "name": "Nruhc Nrevac",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000270.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Nruhc Nrevac",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000271.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Riverside Ring",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000272.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Riverside Ring",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000273.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Shadow Spirits",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000274.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Shadow Spirits",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000275.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Eggshell",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000276.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Eggshell",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000277.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Will Of The Wisp",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000278.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Will Of The Wisp",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000279.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Victor Valley",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000280.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Victor Valley",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000281.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Grassy Gorge",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000282.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Grassy Gorge",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000283.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Two Thousand Lakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000284.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Two Thousand Lakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000285.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Clash Colosseum",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000286.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Clash Colosseum",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000287.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Snowball Fight",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000288.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Massive Attack",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000289.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Control Grande",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000290.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Perimeter",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000291.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Open Business",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000292.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Parallel Plays",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000293.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Split",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000294.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Purple Paradise",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000295.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Corner Case",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000296.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Hop Skip And Jump",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000297.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Portal Overload",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000298.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Mosh Pit",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000299.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Ring Of Fire",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000300.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Quick Skip",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000301.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Turnaround",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000302.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Watch Out",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000303.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Sizzling Surprise",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000304.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Hard Rock Mine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000305.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Dueling Beetles",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000306.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Riverside Ring",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000307.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Riverside Ring",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000308.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Shadow Spirits",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000309.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Shadow Spirits",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000310.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Eggshell",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000311.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Eggshell",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000312.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Will Of The Wisp",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000313.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Will Of The Wisp",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000314.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Victor Valley",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000315.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Victor Valley",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000316.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Grassy Gorge",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000317.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Grassy Gorge",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000318.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Clash Colosseum",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000319.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Clash Colosseum",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000320.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Full On",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000321.png",
+        "gameModename": "Robo Rumble"
+    },
+    {
+        "name": "Last Stand",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000322.png",
+        "gameModename": "Robo Rumble"
+    },
+    {
+        "name": "Open Season",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000323.png",
+        "gameModename": "Big Game"
+    },
+    {
+        "name": "Lit Match",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000324.png",
+        "gameModename": "Big Game"
+    },
+    {
+        "name": "Rumble In The Jungle",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000325.png",
+        "gameModename": "Boss Fight"
+    },
+    {
+        "name": "Rope-A-Dope",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000326.png",
+        "gameModename": "Boss Fight"
+    },
+    {
+        "name": "Flooded Dam",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000327.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Sideswipe",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000328.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Straight Up Racket",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000329.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Easy Money",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000330.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Side Door",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000331.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Oceans Six",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000332.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Stolen Valor",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000333.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Roped In",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000334.png",
+        "gameModename": "Pumpkin Plunder"
+    },
+    {
+        "name": "Bot Riot",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000335.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Open Plaza",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000336.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Encirclement",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000337.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Winter Party",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000338.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Jumping Beans",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000339.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Fast Fork",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000340.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Clean Shot",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000341.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Boxing Day",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000342.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Rustic Arcade",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000343.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Arene En Folie",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000344.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Red Herring",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000345.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Central Traffic",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000346.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Snaked Assault",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000347.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Conveyor Clash",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000348.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Triumvirate",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000349.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Quick Travel",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000350.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Magnetic Field",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000351.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "The Galaxy",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000352.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "The Galaxy",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000353.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Ends Meet",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000360.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Middle Ground",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000361.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Close Call",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000362.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Zip Zap",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000363.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Double Bluff",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000364.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Snake Out",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000365.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Split Difference",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000366.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Goldarm Gulch",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000367.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Belles Rock",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000368.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Crimewater",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000369.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Hot Pursuit",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000370.png",
+        "gameModename": "Hold The Trophy"
+    },
+    {
+        "name": "Medal Madness",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000371.png",
+        "gameModename": "Hold The Trophy"
+    },
+    {
+        "name": "Prized Possession",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000372.png",
+        "gameModename": "Hold The Trophy"
+    },
+    {
+        "name": "Elevator Pitch",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000373.png",
+        "gameModename": "Hold The Trophy"
+    },
+    {
+        "name": "In The Mix",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000374.png",
+        "gameModename": "Hold The Trophy"
+    },
+    {
+        "name": "Racing Trophy",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000375.png",
+        "gameModename": "Hold The Trophy"
+    },
+    {
+        "name": "Cornered",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000376.png",
+        "gameModename": "Hold The Trophy"
+    },
+    {
+        "name": "Tiger Leap",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000377.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Block Party",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000378.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Power Alley",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000379.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Strong Side",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000380.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Pancake",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000381.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Jungle Ball",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000382.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Floater",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000383.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Ball Hog",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000384.png",
+        "gameModename": "Basket Brawl"
+    },
+    {
+        "name": "Reversal",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000385.png",
+        "gameModename": "Basket Brawl"
+    },
+    {
+        "name": "Pocket Pass",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000386.png",
+        "gameModename": "Basket Brawl"
+    },
+    {
+        "name": "Turnover",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000387.png",
+        "gameModename": "Basket Brawl"
+    },
+    {
+        "name": "Alley Oop",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000388.png",
+        "gameModename": "Basket Brawl"
+    },
+    {
+        "name": "Slam Dunk",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000389.png",
+        "gameModename": "Basket Brawl"
+    },
+    {
+        "name": "Triple-Double",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000390.png",
+        "gameModename": "Basket Brawl"
+    },
+    {
+        "name": "Dark Fantasies",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000391.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Dark Fantasies",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000392.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Risky Cliffs",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000393.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Risky Cliffs",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000394.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Ignition",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000395.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Ignition",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000396.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Mystic Touch",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000397.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Mystic Touch",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000398.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Trap Map",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000399.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Trap Map",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000400.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Stardust Storm",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000403.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Cotton Candy Dreams",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000404.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Twisted Torpedo",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000405.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Gem Bash",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000406.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Molasses",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000407.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Side Strike",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000409.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Wavedash",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000410.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Retina",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000411.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Turtle Shell",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000412.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Sticky Notes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000413.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Cover Crowd",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000416.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Bandit Hook",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000417.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Spring Onions",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000418.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Time Warp",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000420.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Iron Cables",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000421.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Sabotage Strip",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000422.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Storm Attack",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000424.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Flanking Maneuver",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000425.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Power Washer",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000426.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Rust Belt",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000427.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Splash Out",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000428.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Deep End",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000429.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Dried Up River",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000430.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Dried Up River",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000431.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Canyon Rivers",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000436.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Canyon Rivers",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000437.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Luis Revenge",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000438.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Flaring Phoenix",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000440.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Diagonal Alley",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000441.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Rattlesnake Ravine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000443.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Electric Zone",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000444.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Cube Force",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000445.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Robo Ring",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000448.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Bric-A-Brac",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000449.png",
+        "gameModename": "Siege"
+    },
+    {
+        "name": "Night At The Museum",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000450.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Danger Zone",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000452.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Firm Grip",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000454.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Binary Coding",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000455.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Pierced",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000456.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Gem Source",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000457.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "No Surrender",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000460.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Shrouding Serpent",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000461.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Block And Counter",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000462.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Warriors Way",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000463.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Duelists Destiny",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000464.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Meadow Of The Crane",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000465.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Ninja Checkmate",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000466.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Rigid Ravines",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000467.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Monkey Maze",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000468.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Tiger Trap",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000469.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Danger Chamber",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000470.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Infinite Doom",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000471.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Camping Grounds",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000476.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Friendly Fire Off",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000477.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Translocator Exchange",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000478.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Slayers Paradise",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000479.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Wicked Twig",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000480.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Quad Damage",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000481.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Sapphire Plains",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000486.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Training Island",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000487.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Drawback",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000488.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Backhaul",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000490.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Force Majeure",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000491.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Air Waybill",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000492.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Cubic Capacity",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000493.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Concealed Damage",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000496.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Special Delivery",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000498.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Open Space",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000499.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Off The Line",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000500.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Riverside",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000501.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Flowing Springs",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000502.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Double Sided",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000503.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Hairdryer Treatment",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000504.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Gem Exchange",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000505.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Opposing Forts",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000506.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Canyon Rivers",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000507.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Canyon Rivers",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000508.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "The Mortuary",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000509.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "The Mortuary",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000510.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Devolution",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000511.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Divided",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000512.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Val Verde",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000513.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Quadrants",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000514.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Brawl Of The Worlds",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000515.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Killzone",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000516.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Bullseye",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000517.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Peekaboo",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000518.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Bots Attack",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000519.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Linear Blocks",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000520.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Corridors",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000521.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Riverside",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000522.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Departure",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000523.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Forts",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000524.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "The Bot",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000525.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "A Loud Place",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000526.png",
+        "gameModename": "Bot Drop"
+    },
+    {
+        "name": "Open Zone",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000527.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "New Perspective",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000528.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "X Marks The Spot",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000529.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Cant Touch This",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000530.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Extra Bouncy",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000531.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Full Tilt",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000532.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "High Score",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000533.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Ping Pong",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000534.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Jump Park",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000535.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Brawler Speedway",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000536.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Teleport Tag",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000537.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Trials And Tribulations",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000538.png",
+        "gameModename": "Hunters"
+    },
+    {
+        "name": "Hunting Season",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000539.png",
+        "gameModename": "Hunters"
+    },
+    {
+        "name": "The Prey",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000540.png",
+        "gameModename": "Hunters"
+    },
+    {
+        "name": "Quick And Restless",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000541.png",
+        "gameModename": "Hunters"
+    },
+    {
+        "name": "Deliverance",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000542.png",
+        "gameModename": "Hunters"
+    },
+    {
+        "name": "True Trail",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000543.png",
+        "gameModename": "Hunters"
+    },
+    {
+        "name": "Omega",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000544.png",
+        "gameModename": "Hunters"
+    },
+    {
+        "name": "Double Jeopardy",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000545.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Make It Bounce",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000546.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Hidden Enemy",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000547.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Out In The Open",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000548.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "River Banks",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000549.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Treefecta",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000550.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Glass Half Full",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000551.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Duality",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000552.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Dont Turn Around",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000553.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Side By Side",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000554.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Trident",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000555.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Imbalance",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000556.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Boxed In",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000557.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Boxed In",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000558.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Zoomed Out",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000559.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Zoomed Out",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000560.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "The Eliminator",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000561.png",
+        "gameModename": "Last Stand"
+    },
+    {
+        "name": "Punishment Day",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000562.png",
+        "gameModename": "Last Stand"
+    },
+    {
+        "name": "Rise Of The Robots",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000563.png",
+        "gameModename": "Last Stand"
+    },
+    {
+        "name": "Salvation",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000564.png",
+        "gameModename": "Last Stand"
+    },
+    {
+        "name": "Fried Circuits",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000565.png",
+        "gameModename": "Last Stand"
+    },
+    {
+        "name": "Dark Destiny",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000566.png",
+        "gameModename": "Last Stand"
+    },
+    {
+        "name": "The Eliminator",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000567.png",
+        "gameModename": "Last Stand"
+    },
+    {
+        "name": "Juhas Test Chamber",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000568.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Hamiltons End",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000569.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Black River",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000570.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Petticoat Duel",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000571.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Swallow Cut",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000572.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "No Excuses",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000573.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Gladiators",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000574.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Hotheaded",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000575.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Crossroads",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000576.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Four Doors",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000577.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Nowhere To Hide",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000578.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Offset Heist",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000579.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Rush Hour",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000580.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Healthy Middle Ground",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000581.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Lush Poles",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000582.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Lush Poles",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000583.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Solid Center",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000584.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Iron Standoff",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000585.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Center Control",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000586.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Iron Cover",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000587.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Step By Step",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000588.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Hard Limits",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000589.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Hard Limits",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000590.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Circular Motion",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000591.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Iron Corridor",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000592.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Mogura Tataki",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000593.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Four Lakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000594.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Grim Island",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000595.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Iron Core",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000596.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Green Meadows",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000597.png",
+        "gameModename": "Basket Brawl"
+    },
+    {
+        "name": "Pick And Roll",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000598.png",
+        "gameModename": "Basket Brawl"
+    },
+    {
+        "name": "Basket Fort",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000599.png",
+        "gameModename": "Basket Brawl"
+    },
+    {
+        "name": "Dancing Roof",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000600.png",
+        "gameModename": "Basket Brawl"
+    },
+    {
+        "name": "Isolation Play",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000601.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Victory Road",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000602.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Smash Land",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000603.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Quick Attack",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000604.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Power Alley",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000605.png",
+        "gameModename": "Volley Brawl"
+    },
+    {
+        "name": "Death Loop",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000606.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Eyes On The Ground",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000607.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Cheeky Chokepoint",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000608.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Devils Pass",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000609.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Battered Battlefield",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000610.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Midlands",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000611.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Transfer Of Troubles",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000612.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Lakeside Lappin",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000613.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Iron Center",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000614.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Highly Trafficated",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000615.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Backhaul Updated",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000616.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Infinite Doom",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000617.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Slayers Paradise",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000618.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Hideout",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000619.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Canal Grande",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000620.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Dry Season",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000621.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Layer Cake",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000622.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Shooting Star",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000623.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Snake Prairie",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000624.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Shiver Me Timbers",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000625.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Walk The Plank",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000626.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Davy Jones Locker",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000627.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Blimey",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000628.png",
+        "gameModename": "Payload"
+    },
+    {
+        "name": "Fractions",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000629.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Roundabout",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000630.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Ring Of Death",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000631.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Poison Fields",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000632.png",
+        "gameModename": "Takedown"
+    },
+    {
+        "name": "Layer Bake",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000634.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Stepping Stones",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000635.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Last Stop",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000636.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Freezing Ripples",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000638.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Great Waves",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000639.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Cool Shapes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000640.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Arctic Extraction",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000641.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Snowman Forest",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000642.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Cold Pond Quarry",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000643.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Snowflakes",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000644.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Slippery Road",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000645.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Icy Ice Park",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000646.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Frosty Tracks",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000647.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Stacking",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000648.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Warehouse",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000649.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "On The Train",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000650.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Over The Top",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000651.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Iron Bars",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000652.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Deadly Deflections",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000653.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Waters Of Doom",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000654.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Into Infinity",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000655.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Hungry Hippos",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000656.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Sultans Of Swing",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000657.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Vicious Vortex",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000658.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Vicious Vortex",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000659.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Descending Dimensions",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000660.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Descending Dimensions",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000661.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Field Goal",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000662.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Backyard Bowl",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000663.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Hard Rock Mine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000664.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Double Swoosh",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000665.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Belles Rock",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000666.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Goldarm Gulch",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000667.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Ring Of Fire",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000668.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Split",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000669.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Shooting Star",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000670.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Snake Prairie",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000671.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Crossing",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000672.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Side Jump",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000673.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Strange",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000674.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Rush",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000675.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Riverbed",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000676.png",
+        "gameModename": "Heist"
+    },
+    {
+        "name": "Close Call",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000677.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Stay In Your Lane",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000678.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Close Quarters",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000679.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "The Great Divide",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000680.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Checkered",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000681.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "The Great Open",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000682.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Hard Rock Mine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000685.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Close Call",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000686.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Out In The Open",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000687.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Close Quarters",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000688.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "The Great Divide",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000689.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Ring Of Fire",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000690.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "The Great Open",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000691.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Shooting Star",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000692.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Triple Dribble",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000693.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Encirclement",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000694.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Layer Bake",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000695.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "The Great Open",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000696.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Breakwater Port",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000697.png",
+        "gameModename": "Trophy Escape"
+    },
+    {
+        "name": "Bounce Bazaar",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000698.png",
+        "gameModename": "Trophy Escape"
+    },
+    {
+        "name": "Circling Sands",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000699.png",
+        "gameModename": "Trophy Escape"
+    },
+    {
+        "name": "Sizzling Chambers",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000700.png",
+        "gameModename": "Knockout 5v5"
+    },
+    {
+        "name": "Marksmans Paradise",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000701.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Marksmans Paradise",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000702.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "New Horizons",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000703.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Goalkeepers Dream",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000704.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Desert Tendrils",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000705.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Desert Tendrils",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000706.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Flooded Mine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000707.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Hard Rock Mine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000708.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Open Space",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000709.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Beach Ball",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000710.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Encirclement",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000711.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Goalkeepers Dream",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000712.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Dueling Beetles",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000713.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Open Zone",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000714.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Ring Of Fire",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000715.png",
+        "gameModename": "Hot Zone"
+    },
+    {
+        "name": "Belles Rock",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000716.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "New Horizons",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000717.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Out In The Open",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000718.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Suspenders",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000719.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Riverbank Crossing",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000720.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Gemming Channels",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000721.png",
+        "gameModename": "Gem Grab"
+    },
+    {
+        "name": "Feast Or Famine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000722.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Feast Or Famine",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000723.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Island Invasion",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000724.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Island Invasion",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000725.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Downtown Destruction",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000726.png",
+        "gameModename": "Godzilla City Smash"
+    },
+    {
+        "name": "Hardihood Hideaway",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000727.png",
+        "gameModename": "Trophy Escape"
+    },
+    {
+        "name": "Crispy Crypt",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000728.png",
+        "gameModename": "Knockout 5v5"
+    },
+    {
+        "name": "Capital Chaos",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000729.png",
+        "gameModename": "Godzilla City Smash"
+    },
+    {
+        "name": "Boom Town Bust",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000730.png",
+        "gameModename": "Godzilla City Smash"
+    },
+    {
+        "name": "Fiftyfive",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000731.png",
+        "gameModename": "Solo Showdown"
+    },
+    {
+        "name": "Fiftyfive",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000732.png",
+        "gameModename": "Duo Showdown"
+    },
+    {
+        "name": "Between The Rivers",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000733.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Four Levels",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000734.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Burning Flares",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000735.png",
+        "gameModename": "Duels"
+    },
+    {
+        "name": "Color Me Intrigued",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000736.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Highway Havoc",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000737.png",
+        "gameModename": "Godzilla City Smash"
+    },
+    {
+        "name": "New Horizons",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000738.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Goalkeepers Dream",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000739.png",
+        "gameModename": "Brawl Ball"
+    },
+    {
+        "name": "Between The Rivers",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000740.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Four Levels",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000741.png",
+        "gameModename": "Knockout"
+    },
+    {
+        "name": "Color Me Intrigued",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000742.png",
+        "gameModename": "Bounty"
+    },
+    {
+        "name": "Shuffle City",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000743.png",
+        "gameModename": "Knockout 5v5"
+    },
+    {
+        "name": "Sizzling Chambers",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000744.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Crispy Crypt",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000745.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Shuffle City",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000746.png",
+        "gameModename": "Wipeout"
+    },
+    {
+        "name": "Riverbank Crossing",
+        "url": "https:\/\/cdn-old.brawlify.com\/map\/15000747.png",
+        "gameModename": "Knockout 5v5"
+    }
+]

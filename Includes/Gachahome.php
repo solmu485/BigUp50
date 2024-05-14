@@ -6,7 +6,12 @@
     <title>Random Prize Picker</title>
     <link rel="stylesheet" type="text/css" href="Styles/Stylemusa.css" media="screen" />
     <?php
-    session_start();
+    /*
+     * Musa Fehler
+     * session_start();
+     *
+     * Melvin debuggt
+    */
     include_once "Back-End/functiongacha.php";
     ?>
     <script src="Front-End/front_end_ranking.js"></script>

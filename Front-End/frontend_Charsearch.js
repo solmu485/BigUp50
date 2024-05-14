@@ -1,10 +1,11 @@
-$(document).ready(function() {
+// MELVIN
+
     // Wenn Input geändert wird Funktion ausführen für Character-Namen in Combo-box aufzufüllen
     $("#character").on("input", function() {
         var searchTerm = $(this).val().trim();
         if (searchTerm !== '') {
             $.ajax({
-                url: "../Back-End/backend_CharSearch.php",
+                url: "Back-End/backend_CharSearch.php",
                 type: "GET",
                 data: { search: searchTerm },
                 dataType: "json",
@@ -33,7 +34,7 @@ $(document).ready(function() {
         var characterId = $(this).val();
         if (characterId !== '') {
             $.ajax({
-                url: "../Back-End/backend_CharSearch.php",
+                url: "Back-End/backend_CharSearch.php",
                 type: "GET",
                 data: { id: characterId },
                 dataType: "json",
@@ -131,4 +132,3 @@ $(document).ready(function() {
         nestedHtml += "</ul></div>";
         return nestedHtml;
     }
-});

@@ -1,7 +1,16 @@
-<?php
-session_start();
-?>
+<!--
+
+Musa Fehler, aka um trollen
+
+Debuggt by Taulant und Tom
+
+Deleting von Session und debugging von Directories und Musa stylesheet
+
+
 <link rel="stylesheet" type="text/css" href="../Styles/Stylemusa.css" media="screen" />
+
+-->
+
 <?php
 //@author Musa Solak
 echo "<nav>";
@@ -9,6 +18,7 @@ $menu = [
         "home" => "home",
     "Gacha" => "Gachahome",
     "Characters" => "Characters",
+    "Character Search" => "Char_Search",
     "quiz" => "quiz",
     "guesTheBrawler" => "guesTheBrawler",
     "category_rarity_brawler"=> "category_rarity_brawler",

@@ -1,6 +1,4 @@
-<?php
-session_start();
-?>
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -33,6 +31,8 @@ if(isset($_GET['page'])) {  //auflisten der php Seiten
         include_once "Includes/Gachahome.php";
     }elseif ($page == "Characters"){
         include_once "Includes/Characters.php";
+    }elseif ($page == "Char_Search"){
+        include_once "Includes/Char_Search.php";
     }elseif ($page == "quiz"){
         include_once "Includes/quiz.php";
     }elseif ($page == "guesTheBrawler"){

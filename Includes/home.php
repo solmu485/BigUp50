@@ -40,12 +40,19 @@
         <?php
         // Verbindung zur Datenbank herstellen
         include_once "db_cred.php";
+
+        /*
+         * Musa fehler
+         *
+         *
         $dbc = mysqli_connect("localhost", "username", "password", "database");
         mysqli_set_charset($dbc, 'utf8');
 
+        Melvin huet debuggt
+        */
         // SQL-Abfrage zum Abrufen der Eventnamen
         $query = "SELECT dtEventName FROM tblEvent";
-        $result = mysqli_query($dbc, $query);
+        $result = mysqli_query($conn, $query);
 
         // Eventnamen in die Tabelle einfügen
         $eventNames = [];
@@ -60,8 +67,17 @@
             echo "<tr><td>" . $eventNames[$i] . "</td></tr>";
         }
 
-        // Verbindung zur Datenbank schließen
+        /* Verbindung zur Datenbank schließen
         mysqli_close($dbc);
+
+
+        Musa an Franjo fehler
+
+
+        Melvin huet debuggt
+
+         */
+        mysqli_close($conn);
         ?>
         </tbody>
     </table>

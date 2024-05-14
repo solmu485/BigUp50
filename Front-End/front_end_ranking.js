@@ -1,3 +1,6 @@
+
+// MELVIN
+
 // Alle Flags bekommen
 const flags = document.getElementsByClassName("flag");
 

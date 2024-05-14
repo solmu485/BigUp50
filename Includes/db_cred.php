@@ -1,5 +1,5 @@
 <?php
-// Musa und Franjo
+// Melvin
 // Database credentials
 $servername = "89.58.47.144";
 $username = "brawlTalkUser";
